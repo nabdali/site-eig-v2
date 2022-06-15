@@ -6,6 +6,7 @@ promos:
 role: participant
 defis:
   - Brigade Numérique
+  - EIG3 Link
 expertises:
   - Design
 image: img/jean-baptiste-le-devehat.png
