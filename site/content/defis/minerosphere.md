@@ -45,6 +45,5 @@ L'identification fine par la France de toutes ses ressources minérales est néc
 ### Rejoignez un collectif au service de l'intérêt général
 
 Les EIG recherché(e)s :
-* Designer
 * Développeur ou développeuse
 * Ingénieur(e) des sciences de la donnée (ou « data scientist »)
