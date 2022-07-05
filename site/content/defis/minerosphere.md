@@ -10,7 +10,6 @@ promos:
 town: Orléans (45)
 date: 2022
 expertises:
-  - Design
   - Développement
   - Data science
 image: img/promotion-6/defis/14_MinerOsphère.svg
