@@ -7,7 +7,6 @@ on:
   push:
     branches:
       - master  # Set a branch to deploy
-    pull-request:
 
 jobs:
   deploy:
@@ -36,14 +35,8 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      # - name: Prepare build
-      #   run: |
-      #     cd themes/design-system-gouvfr && npm install && cd ../../
-      #     cp -r themes/design-system-gouvfr/node_modules/@gouvfr/dsfr/dist/ ./static/design-system-gouvfr
-
       - name: Build
         run: yarn build
-        #run: hugo --minify -b $SITE_URL
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
