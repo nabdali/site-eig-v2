@@ -1,7 +1,6 @@
 ---
 title: TwinCity
-description: Explorer le potentiel de l'intelligence artificielle appliquée à
-  des jumeaux numériques de villes
+description: Explorer le potentiel de l'intelligence artificielle grâce aux jumeaux numériques de villes
 who: Ministère de l'Intérieur
 place: ""
 themes:
@@ -22,21 +21,21 @@ visible: true
 ## Le défi à relever
 
 #### L'administration porteuse{.subtitle}
-### La SDITN, le lab innovation de la Place Beauvau
-La Sous-direction de l’innovation et de la transformation numérique (SDITN) du Ministère de l'Intérieur - fabrique des outils numériques à destination des agents du Ministère de l'Intérieur ou des citoyens, dans une logique de transparence des méthodes et d'ouverture des données.
+### La SDITN, au laboratoire de valorisation des données
+La Sous-direction de l’innovation et de la transformation numérique (SDITN) du ministère de l'Intérieur (MININT) fabrique des outils numériques à destination de ses agents ou des citoyens, dans une logique de transparence des méthodes et d'ouverture des données.
 
 #### La problématique identifiée{.subtitle}
-### Les données dont dispose le MinInt sont toujours plus volumineuses notamment grâce à la vidéosurveillance mais difficilement exploitables pour des raisons juridiques
-Le respect des données à caractère personnel constitue un garde-fou nécessaire dans nos sociétés mais en même temps cela peut freiner des initiatives de R&D qui voudraient se servir de la qualité et de la volumétrie de ces informations afin d'élaborer des systèmes intelligents de protection des citoyens.
+### Les données du MININT sont toujours plus volumineuses, notamment grâce à la vidéoprotection mais difficilement exploitables pour des raisons juridiques
+Le respect des données à caractère personnel constitue un garde-fou nécessaire dans nos sociétés, ce qui empêche en même temps l'élaboration de systèmes intelligents qui visent à améliorer la sécurité dans l'espace public. De plus, ces données sont difficiles d'accès, longues à annotées et parfois rares.
 
 #### L'hypothèse à vérifier{.subtitle}
-### Se servir des systèmes de vidéoprotection existants afin d'élaborer des doubles virtuels de ces villes grâce à des moteurs open-source de jeux vidéos/film d’animation
-Il est envisagé de reproduire une ville dans un moteur de jeu open-source afin de simuler les problèmes réels dans un univers alternatif virtuel. L'exemplarité déontologique de l'Etat pose des limites claires : il ne sera question ni suivi d'individus ni de reconnaissance faciale, aussi l'un des fondements de ce défi portera sur le floutage.
-Ce générateur de données synthétiques pourra par conséquent d'abord être mis en place dans les villes et préfectures disposant d'un système de vidéoprotection. Les premières contributions porteront sur le comptage de foule et potentiellement dans un second temps sur la détection de dépôts d'ordures sauvages ou de malaises.
+### Elaborer des jumeaux numériques des villes françaises avec des moteurs open-source de jeux vidéos/film d’animation, pour simuler les problèmes de sécurité dans l'espace public.
+De cette manière, des jeux de données synthétiques seront générer afin d'entraîner des intelligences artificielles. L'exemplarité déontologique de l'Etat pose des limites claires : il ne sera question ni de suivi d'individus ni de reconnaissance faciale, aussi l'un des fondements de ce défi portera sur le floutage.
+Ce générateur de données synthétiques pourra par conséquent d'abord être mis en place dans les villes et préfectures disposant d'un système de vidéoprotection. Les premières contributions porteront sur le comptage de foule et potentiellement dans un second temps sur la détection de malaises, d'agressions ou de dépôts d'ordures sauvages.
 
 #### Les ambitions du projet{.subtitle}
-### Explorer le potentiel de l'intelligence artificielle appliquée à des jumeaux numériques de villes
-Le projet permettra d’accélérer le développement d'outils automatisés d'analyse d'images des espaces publics notamment pour les besoins du MinInt et par souci de transparence mettra à disposition des citoyens et des autres services publics une plateforme de démonstration sur l'utilisation de ces données de vidéoprotection.
+### Explorer le potentiel de l'intelligence artificielle grâce à des jumeaux numériques de villes
+Le projet permettra d’accélérer le développement d'outils automatisés d'analyse d'images des espaces publics, notamment pour les besoins du ministère de l'Intérieur. Par souci de transparence, une plateforme de démonstration sur l'utilisation de ces données sera mise à disposition pour les citoyens et pour les autres services publics.
 Ainsi, le monde conçu sera tout ou partie rendu public, via des banques d'objet 3D chez Unity ou Unreal, tout comme les codes visant à générer les images ; les codes d'adaptation de domaines, les codes d'apprentissages profonds et les codes produits seront ouverts et en licence libre. Seuls les modèles entraînés resterons privés.
 
 ## L'équipe entrepreneuriale
