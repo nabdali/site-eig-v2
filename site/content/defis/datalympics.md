@@ -38,5 +38,3 @@ Le défi comporte plusieurs enjeux techniques :
 Dans un second temps, les EIG pourront proposer des outils facilitant l’accès et la consultation de ces données.
 
 Au-delà de l’impact en termes de transparence budgétaire de l’organisation des JOP 2024, cet outil a pour vocation de proposer une nouvelle méthodologie de mise à disposition de données de qualité et certifiées.
-
-{{< dailymotion x82dy3o >}}
