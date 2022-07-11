@@ -12,6 +12,10 @@ agents:
     - Christophe Cuq
     - TEST - Adeline Celier
 ---
+**6 juillet 2022**
+
+[“Je crois à la pollinisation avec le privé” : Stanislas Guerini esquisse sa vision de la transformation numérique](https://acteurspublics.fr/articles/je-crois-a-la-pollinisation-avec-le-prive-le-ministre-guerini-esquisse-sa-vision-de-la-transformation-numerique)
+
 **28 mars 2022**
 
 [La direction interministérielle du numérique (DINUM) recrute !](https://twitter.com/bfmbusiness/status/1508397718498160641?s=20&t=vwfuV6P6pwFIiLiZySv3rA)
