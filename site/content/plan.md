@@ -4,7 +4,7 @@ layout: page
 url: /plan-du-site
 ---
 
-[Acceuil](https://eig.etalab.gouv.fr/)
+[Accueil](https://eig.etalab.gouv.fr/)
 
 [Programme](https://eig.etalab.gouv.fr/programme/)
 
