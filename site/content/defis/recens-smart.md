@@ -37,10 +37,3 @@ Rendre le questionnaire par Internet plus simple à remplir permettrait d'augmen
 #### Les ambitions du projet{.subtitle}
 ### Améliorer le processus et rehausser la qualité du recensement au service d'une meilleure connaissance de la population
 Le recensement de la population concerne l'ensemble des habitants sur un cycle de 5 ans. Faciliter la réponse à cette opération est donc bénéfique à tous et toutes. Les populations légales établies par le recensement de la population déterminent la contribution de l’État aux budgets des communes ; elles sont également utilisées pour décider de l'implantation de nombreux services : crèches, écoles, professionnels de santé, établissements pour personnes âgées... La montée en qualité des résultats du recensement de la population obtenue grâce à Recens'smart sera donc essentielle à la vie et à l'avenir de chacun(e).
-
-## L'équipe entrepreneuriale
-### Rejoignez un collectif au service de l'intérêt général
-
-Les EIG recherché(e)s :
-* Designer
-* Développeur ou développeuse

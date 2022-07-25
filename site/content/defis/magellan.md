@@ -34,11 +34,3 @@ Les coachs EIG participent à l'animation du programme d'accompagnement en appor
 #### Les ambitions du projet{.subtitle}
 ### Accompagner la collaboration et l'innovation au sein du programme EIG et de son écosystème
 Le programme EIG s'inscrit dans l'écosystème du numérique et de l'innovation publique. Il bénéficie de l'implication et de l'expertise de parrains et de marraines au sein de la DINUM, qui soutiennent la rèlève des défis. Les coachs EIG se trouvent au coeur de cet écosystème : ils et elles facilitent et valorisent la collaboration par des échanges en pair-à-pair et de l’entraide. Ils et elles contribuent ainsi au développement d'une communauté de pratique autour des quatre valeurs cardinales du programme : l'esprit entrepreneurial, l'ouverture des données et des codes-sources, l'éco-responsabilité et l'accessibilité.
-
-## L'équipe entrepreneuriale
-### Rejoignez un collectif au service de l'intérêt général
-
-Les EIG recherché(e)s :
-* Coach en développement
-* Coach en ingénierie de la donnée
-* Coach en design de service

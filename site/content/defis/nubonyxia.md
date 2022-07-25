@@ -36,10 +36,3 @@ Le défi pourra s'inspirer de solutions similaires existantes. D'abord, la techn
 #### Les ambitions du projet{.subtitle}
 ### Sécuriser et faciliter l'intelligence des données économiques et financières sensibles
 Impulser l'émergence d'une filière technique data et data science au sein des MEFR afin de mettre à disposition des data-scientists de Bercy une plateforme open source intégrée exposant des briques IA réutilisables et faciles à maintenir. Parallèlement, cette levée des freins à l'accès aux infrastructures et plateformes devrait simplifier les taches des acteurs impliqués. Le portail cible partagé devra permettre aux ingénieur(e)s de la donnée de mettre leurs algorithmes et codes à disposition des métiers et ces derniers pourront traiter et enrichir ces données sensibles de façon plus autonome.
-
-## L'équipe entrepreneuriale
-### Rejoignez un collectif au service de l'intérêt général
-
-Les EIG recherché(e)s :
-* Ingénieur(e) des sciences de la donnée (ou « data scientist »)
-* Ingénieur(e) de la donnée (ou « data engineer »)

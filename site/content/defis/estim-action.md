@@ -41,10 +41,3 @@ Cette exploration sera appuyée par l’expertise du Cerema via les données et 
 ### Aider les collectivités à réduire les nuissances routières, sources de pollution atmosphérique et sonore
 Ce service permettra aux collectivités d’assurer le respect des seuils réglementaires et de participer à une meilleure qualité de vie de la population. Cette amélioration permettra donc de réduire les émissions et les pathologies chroniques liées à la pollution de l’air et au bruit. Ces actions permettront également de rendre ainsi certains territoires plus attractifs par la qualité de leur environnement.
 La mesure d’impact se basera sur plusieurs indicateurs, notamment le nombre de collectivités prêtes à ouvrir leurs données, le taux d’utilisation, mais aussi le nombre d’actions concrètes engagées suite à l’utilisation du service.
-
-## L'équipe entrepreneuriale
-### Rejoignez un collectif au service de l'intérêt général
-
-Les EIG recherché(e)s :
-* Designer
-* Ingénieur(e) de la donnée (ou « data engineer »)

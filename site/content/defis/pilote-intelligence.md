@@ -39,10 +39,3 @@ L’hypothèse envisagée consisterait alors en la création d'un service de coo
 Le dispositif servira à améliorer le déploiement des politiques publiques, en le rendant plus efficaces et en meilleure adéquation avec les besoins de chaque territoire. Plus largement, l'utilisation de ce dispositif sur d'autres cas d'usage permettra d'envisager la diffusion de ces bénéfices à un panel très large de politiques publiques.
 Il permettra également de diffuser la culture du pilotage par la donnée au sein de l'administration, et de valoriser les nouvelles méthodes de collaboration au sein de l'administration. 
 La construction du service se fera sur une logique d'expérimentation auprès des utilisateurs de l’outil PILOTE dans un premier temps, au sein des préfectures et des services déconcentrés. Il touchera, à terme, un écosystème global de 4500 utilisateurs.
-
-## L'équipe entrepreneuriale
-### Rejoignez un collectif au service de l'intérêt général
-
-Les EIG recherché(e)s :
-* Designer
-* Développeur ou développeuse

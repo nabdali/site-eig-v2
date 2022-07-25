@@ -39,10 +39,3 @@ Cela pourrait, par exemple, se traduire par la mise en place de pipelines d’in
 ### Améliorer la transparence et le suivi des projets financés de recherche appliquée en santé
 La plateforme cible de restitution des résultats permettra d’améliorer la transparence de l’action publique en communiquant sur le suivi des projets de recherche financés et en permettant un accès direct et transparent aux agents du Ministère de la Santé, aux décideurs politiques, aux acteurs de la recherche, aux industriels impliqués et aux citoyens.
 Par ailleurs, grâce à l'automatisation de taches aujourd'hui manuelles, les équipes métier pourront davantage se consacrer à du pilotage plus stratégique.
-
-## L'équipe entrepreneuriale
-### Rejoignez un collectif au service de l'intérêt général
-
-Les EIG recherché(e)s :
-* Développeur ou développeuse
-* Ingénieur(e) de la donnée (ou « data engineer »)

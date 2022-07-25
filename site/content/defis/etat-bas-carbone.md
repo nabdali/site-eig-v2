@@ -37,10 +37,3 @@ Une première phase de lancement est initiée visant à créer un démonstrateur
 #### Les ambitions du projet{.subtitle}
 ### Soutenir les services de l’État dans la réduction de leur empreinte carbone
 L'État a un devoir d'exemplarité en termes de politiques environnementales. L'objectif est donc double : d'abord pérenniser l'utilisation d'un outil dynamique simplifiant la production des BEGES au sein des différentes administrations afin de favoriser la réduction de leurs émissions et renforcer l'exemplarité de l'État sur les sujets environnementaux.
-
-## L'équipe entrepreneuriale
-### Rejoignez un collectif au service de l'intérêt général
-
-Les EIG recherché(e)s :
-* Développeur ou développeuse
-* Ingénieur(e) des sciences de la donnée (ou « data scientist »)

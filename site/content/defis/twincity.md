@@ -37,10 +37,3 @@ Ce générateur de données synthétiques pourra par conséquent d'abord être m
 ### Explorer le potentiel de l'intelligence artificielle grâce à des jumeaux numériques de villes
 Le projet permettra d’accélérer le développement d'outils automatisés d'analyse d'images des espaces publics, notamment pour les besoins du ministère de l'Intérieur. Par souci de transparence, une plateforme de démonstration sur l'utilisation de ces données sera mise à disposition pour les citoyens et pour les autres services publics.
 Ainsi, le monde conçu sera tout ou partie rendu public, via des banques d'objet 3D chez Unity ou Unreal, tout comme les codes visant à générer les images ; les codes d'adaptation de domaines, les codes d'apprentissages profonds et les codes produits seront ouverts et en licence libre. Seuls les modèles entraînés resterons privés.
-
-## L'équipe entrepreneuriale
-### Rejoignez un collectif au service de l'intérêt général
-
-Les EIG recherché(e)s :
-* Développeur ou développeuse
-* Ingénieur(e) des sciences de la donnée (ou « data scientist »)

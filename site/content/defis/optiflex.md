@@ -40,11 +40,3 @@ Le SCA a développé NOMAD en technologie Low &amp; No Code mais le cadre de coh
 ### Repenser les modes de travail au service de la qualité de vie et de la maîtrise de l'empreinte environnementale
 Cette ré-ingenierie permettra d’aboutir à des modes de travail en phase avec les évolutions de la société en allant vers la pérennisation de ces pratiques. La réduction des espaces inutilisés permettra aussi de mieux gérer les coûts d’entretien et ainsi mieux maitriser les finances publiques. Ce changement organisationnel permettra également de participer à l’amélioration de la fonction publique en adaptant les Ministères aux évolutions actuelles et en offrant plus de flexibilité aux agents.
 La cible d’usagers estimée est à 17% des agents du Ministère des Armées, soit 40 000 personnes avec la possibilité d'offrir ce service à l'ensemble de la fonction publique, ce qui amplifiera d’avantage l’impact du dispositif. 
-
-## L'équipe entrepreneuriale
-### Rejoignez un collectif au service de l'intérêt général
-
-Les EIG recherché(e)s :
-* Designer
-* Développeur ou développeuse
-* Ingénieur(e) de la donnée (ou « data engineer »)

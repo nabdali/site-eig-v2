@@ -37,11 +37,3 @@ En tant que maire de petite commune, je ne sais pas quoi faire pour les ponts en
 #### Les ambitions du projet{.subtitle}
 ### Garantir la sécurité de 40 000 ponts sur l'ensemble du territoire national
 Le Cerema a été missionné par le gouvernement pour piloter le Programme National Ponts afin de recenser et d’évaluer l’état de 40 000 ouvrages communaux. Le projet SOS Ponts, par l'incitation à l'action des maries qu'il porte, contribuera à garantir la sécurité sur une cible potentielle de 40 000 ponts en France.
-
-## L'équipe entrepreneuriale
-### Rejoignez un collectif au service de l'intérêt général
-
-Les EIG recherché(e)s :
-* Designer
-* Développeur ou développeuse
-* Ingénieur(e) des sciences de la donnée (ou « data scientist »)

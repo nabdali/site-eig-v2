@@ -38,10 +38,3 @@ Une attention particulière sera mise du côté de l’experience utilisateurs, 
 ### Mettre l'intelligence artificielle au service de l'objectif « zéro artificialisation nette » des sols
 Ce projet est naturellement inscrit dans une démarche de partage de communs numériques et d’innovation ouverte. Il contribuera par ailleurs à structurer la communauté́ IA dans le domaine de l’observation de la terre. 
 Il permettra également à la communauté technique et scientifique d’enrichir les données d’apprentissage pour l’IA et de proposer des solutions permettant d’améliorer leur efficacité́. La disponibilité́ de ces données, ainsi que leur qualité, conditionnent la capacité de l’État à outiller l’objectif de Zéro artificialisation nette (ZAN) d’ici 2050, et à lutter contre l'artificialisation des sols.
-
-## L'équipe entrepreneuriale
-### Rejoignez un collectif au service de l'intérêt général
-
-Les EIG recherché(e)s :
-* Designer
-* Ingénieur(e) des sciences de la donnée (ou « data scientist »)

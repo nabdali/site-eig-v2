@@ -36,10 +36,3 @@ Une autre facette des géocommuns concerne l'accessibilité cartographique numé
 #### Les ambitions du projet{.subtitle}
 ### Représenter et valoriser à façon les géocommuns numériques
 Le défi EIG s'inscrit pleinement dans la stratégie de l'établissement. L’IGN observateur du territoire national en continu : l’Institut va recentrer et développer ses activités de production et de valorisation sur la cartographie de l’anthropocène. L'IGN acteur des « communs » numériques : en complément de ses activités de production, l’Institut doit investir à plein son rôle de rassembleur des parties prenantes autour de défis d’intérêt commun. Enfin, l'IGN cartographe, compagnon des découvertes et des représentations : car le numérique démultiplie le potentiel de la carte comme outil de médiation.
-
-## L'équipe entrepreneuriale
-### Rejoignez un collectif au service de l'intérêt général
-
-Les EIG recherché(e)s :
-* Designer
-* Développeur ou développeuse

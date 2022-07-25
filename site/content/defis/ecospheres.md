@@ -37,11 +37,3 @@ Un prototype de guichet d'accès à la donnée du pôle ministériel répertorie
 #### Les ambitions du projet{.subtitle}
 ### Développer l'écosystème de la donnée de la transition écologique et de la cohésion des territoires 
 L’accès à l’information sur l’environnement a été consacré par l’article 7 de la charte de l’environnement de 2004, qui affirme le droit de toute personne d’accéder aux informations relatives à l’environnement détenues par les autorités publiques et de participer à l’élaboration des décisions publiques ayant une incidence sur l’environnement. En améliorant la réutilisation de données environnementales par les écosystèmes, le CGDD vise non seulement une meilleure prise en compte des enjeux environnementaux dans les politiques publiques, mais aussi un soutien à l'innovation par la donnée dans le secteur privé.
-
-## L'équipe entrepreneuriale
-### Rejoignez un collectif au service de l'intérêt général
-
-Les EIG recherché(e)s :
-* Designer
-* Développeur ou développeuse
-* Ingénieur(e) des sciences de la donnée (ou « data scientist »)
