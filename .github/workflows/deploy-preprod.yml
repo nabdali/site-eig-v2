@@ -1,9 +1,9 @@
-name: Build Pages
+name: Build Preprod Pages
 
 on:
   push:
     branches:
-      - master  # Set a branch to deploy
+      - preprod-v2  # Set a branch to deploy
 
 jobs:
   deploy:
@@ -37,9 +37,9 @@ jobs:
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
-        if: ${{ github.ref == 'refs/heads/master' }}
+        if: ${{ github.ref == 'refs/heads/preprod-v2' }}
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: pages
+          publish_branch: pages-preprod
           publish_dir: ./dist
           destination_dir: dist
