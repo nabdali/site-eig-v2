@@ -3,7 +3,7 @@ title: Projets de la promotion 5
 hero:
   btn:
     title: Participer
-    url: https://eig.etalab.gouv.fr/participer/
+    url: /participer
   title: |+
     Entreprendre
     pour le service public.
