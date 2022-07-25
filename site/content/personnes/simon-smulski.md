@@ -6,6 +6,6 @@ promos:
 role: participant
 expertises:
   - Développement
-image: img/achabott-jeune.jpg
+image: img/james-stewart.jpg
 ---
 Simon est développeur depuis 1920.
