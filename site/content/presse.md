@@ -12,6 +12,10 @@ agents:
     - Christophe Cuq
     - TEST - Adeline Celier
 ---
+**21 juillet 2022**
+
+[Quand la science des données éclaire la gestion RH à l’hôpital](https://acteurspublics.fr/articles/quand-la-science-des-donnees-eclaire-la-gestion-rh-a-lhopital)
+
 **6 juillet 2022**
 
 [“Je crois à la pollinisation avec le privé” : Stanislas Guerini esquisse sa vision de la transformation numérique](https://acteurspublics.fr/articles/je-crois-a-la-pollinisation-avec-le-prive-le-ministre-guerini-esquisse-sa-vision-de-la-transformation-numerique)
