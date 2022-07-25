@@ -2,7 +2,7 @@
 
 <div class="c-hero">
   <div class="c-hero__bg">
-    <img src="{{ .Params.image }}" alt="" />
+    <img src="/{{ .Params.image }}" alt="" />
   </div>
 </div>
 <div class="fr-container">
@@ -20,9 +20,7 @@
             <div class="c-card-number__num">{{ .num }}</div>
             <h3 class="fr-h2">{{ .title }}</h3>
             {{ if ne .btnUrl "" }}
-            <a href="{{ .btnUrl }}" class="fr-btn fr-btn--sm fr-btn--secondary"
-              >{{ .btnTitle }}</a
-            >
+            <a href="{{ .btnUrl }}" class="fr-btn fr-btn--sm fr-btn--secondary">{{ .btnTitle }}</a>
             {{ end }}
           </div>
         </div>
@@ -55,13 +53,11 @@
       <div class="u-text-lg">
         {{ partial "markdownify-block" .Params.then.desc }}
       </div>
-      <div
-        class="
+      <div class="
           fr-grid-row fr-grid-row--gutters fr-grid-row--middle
           c-section__agent c-section__agent--only
           fr-mb-12v
-        "
-      >
+        ">
         <div class="fr-col-12 fr-col-md-3">
           <div class="c-rounded">
             <img src="{{ .Params.quote.photo }}" alt="" />

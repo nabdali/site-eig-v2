@@ -8,7 +8,7 @@ defis:
   - CapQualif
 expertises:
   - Développement
-image: /img/elisabeth-fainstein.png
+image: img/elisabeth-fainstein.png
 linkedin: https://www.linkedin.com/in/elisabeth-fainstein
 github: https://github.com/officierazarov
 ---
