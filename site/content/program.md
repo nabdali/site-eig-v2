@@ -11,7 +11,7 @@ numbers:
   - num: "80"
     title: administrations impactées
     btnTitle: Profils des agents publics
-    btnUrl: https://eig.etalab.gouv.fr/agents
+    btnUrl: /agents
 steps:
   title: |
     Les 3 phases du programme
