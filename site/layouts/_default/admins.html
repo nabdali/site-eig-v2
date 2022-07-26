@@ -4,14 +4,15 @@
   <div class="fr-grid-row fr-grid-row--center">
     <div class="fr-col-12 fr-col-lg-10">
       <nav role="navigation" class="fr-breadcrumb" aria-label="vous êtes ici :">
-        <button class="fr-breadcrumb__button" aria-expanded="false" aria-controls="breadcrumb-192">Voir le fil d’Ariane</button>
+        <button class="fr-breadcrumb__button" aria-expanded="false" aria-controls="breadcrumb-192">Voir le fil
+          d’Ariane</button>
         <div class="fr-collapse" id="breadcrumb-192">
           <ol class="fr-breadcrumb__list">
             <li>
               <a class="fr-breadcrumb__link" href="{{ .Site.BaseURL }}">Accueil</a>
             </li>
             <li>
-              <a class="fr-breadcrumb__link" href="{{ relref . "participer" }}">Participer</a>
+              <a class="fr-breadcrumb__link" href="{{ relref . " participer" }}">Participer</a>
             </li>
             <li>
               <a class="fr-breadcrumb__link" aria-current="page">{{ .Title }}</a>
@@ -25,11 +26,12 @@
           {{ partial "markdownify-block" .Params.head.desc }}
         </div>
         {{ if .Params.open }}
-          <div class="fr-mb-12v c-multi-btns">
-            <a href="{{ .Params.head.apply.url }}" class="fr-btn fr-btn--lg">{{ .Params.head.apply.title }}</a>
-            <a href="{{ .Params.head.call.url }}" class="fr-link fr-link--lg fr-fi-download-line fr-link--icon-right" target="_blank">{{ .Params.head.call.title }}</a>
-          </div>
-          {{ end }}
+        <div class="fr-mb-12v c-multi-btns">
+          <a href="{{ .Params.head.apply.url }}" class="fr-btn fr-btn--lg">{{ .Params.head.apply.title }}</a>
+          <a href="{{ .Params.head.call.url }}" class="fr-link fr-link--lg fr-fi-download-line fr-link--icon-right"
+            target="_blank">{{ .Params.head.call.title }}</a>
+        </div>
+        {{ end }}
         <div class="c-wysiwyg u-text-lg">
           {{ .Params.program | markdownify }}
           <h2>{{ .Params.criteria.title }}</h2>
@@ -43,7 +45,7 @@
           <div class="c-wait fr-mb-6v">
             <div class="fr-grid-row fr-grid-row--gutters fr-grid-row--middle">
               <div class="fr-col-12 fr-col-sm-3 fr-col-md-2 c-wait__icon">
-                <img src="img/hourglass.svg" alt="">
+                <img src="/img/hourglass.svg" alt="">
               </div>
               <div class="fr-col-12 fr-col-sm-9 fr-col-md-10">
                 <h3>{{ .Params.wait.title }}</h3>
@@ -52,17 +54,12 @@
             </div>
           </div>
           {{ end }}
-          <!-- <h3 class="fr-h6">Consultez à titre indicatif</h3>
-          <ul class="c-list-links">
-            <li><a class="fr-link fr-fi-download-line fr-link--lg fr-link--icon-right" href="#">La plaquette de l'appel à projets 2021</a></li>
-            <li><a class="fr-link fr-fi-download-line fr-link--lg fr-link--icon-right" href="#">Le cahier des charges de l'appel à projets 2021</a></li>
-            <li><a class="fr-link fr-fi-arrow-right-line fr-link--lg fr-link--icon-right" href="#">Notre foire aux questions</a></li>
-          </ul>
-          <p>Contactez-nous : eig@data.gouv.fr</p> -->
+
           {{ if .Params.open }}
           <div class="fr-mb-12v c-multi-btns">
             <a href="{{ .Params.head.apply.url }}" class="fr-btn fr-btn--lg">{{ .Params.head.apply.title }}</a>
-            <a href="{{ .Params.head.call.url }}" class="fr-link fr-link--lg fr-fi-download-line fr-link--icon-right" target="_blank">{{ .Params.head.call.title }}</a>
+            <a href="{{ .Params.head.call.url }}" class="fr-link fr-link--lg fr-fi-download-line fr-link--icon-right"
+              target="_blank">{{ .Params.head.call.title }}</a>
           </div>
           {{ end }}
         </div>
