@@ -4,14 +4,15 @@
   <div class="fr-grid-row fr-grid-row--center">
     <div class="fr-col-12 fr-col-lg-10">
       <nav role="navigation" class="fr-breadcrumb" aria-label="vous êtes ici :">
-        <button class="fr-breadcrumb__button" aria-expanded="false" aria-controls="breadcrumb-192">Voir le fil d’Ariane</button>
+        <button class="fr-breadcrumb__button" aria-expanded="false" aria-controls="breadcrumb-192">Voir le fil
+          d’Ariane</button>
         <div class="fr-collapse" id="breadcrumb-192">
           <ol class="fr-breadcrumb__list">
             <li>
               <a class="fr-breadcrumb__link" href="{{ .Site.BaseURL }}">Accueil</a>
             </li>
             <li>
-              <a class="fr-breadcrumb__link" href="{{ relref . "participer" }}">Participer</a>
+              <a class="fr-breadcrumb__link" href="{{ relref . " participer" }}">Participer</a>
             </li>
             <li>
               <a class="fr-breadcrumb__link" aria-current="page">{{ .Title }}</a>
@@ -34,7 +35,8 @@
         {{ if .Params.open }}
         <div class="fr-mb-18v c-multi-btns">
           <a href="{{ .Params.head.apply.url }}" class="fr-btn fr-btn--lg">{{ .Params.head.apply.title }}</a>
-          <a href="{{ .Params.head.call.url }}" class="fr-link fr-link--lg fr-fi-download-line fr-link--icon-right" target="_blank">{{ .Params.head.call.title }}</a>
+          <a href="{{ .Params.head.call.url }}" class="fr-link fr-link--lg fr-fi-download-line fr-link--icon-right"
+            target="_blank">{{ .Params.head.call.title }}</a>
         </div>
         {{ end }}
         <h2>{{ .Params.def.title }}</h2>
@@ -63,11 +65,11 @@
         <div class="fr-grid-row fr-grid-row--gutters fr-mb-10v">
           {{ $personnes := where (where .Site.Pages "Section" "personnes") ".Title" "in" .Params.profiles.list }}
           {{ if ( gt ( len $personnes ) 0 ) }}
-            {{ range $personnes }}
-            <div class="fr-col-12 fr-col-sm-6 fr-col-md-4">
-              {{ .Render "li" }}
-            </div>
-            {{ end }}
+          {{ range $personnes }}
+          <div class="fr-col-12 fr-col-sm-6 fr-col-md-4">
+            {{ .Render "li" }}
+          </div>
+          {{ end }}
           {{ end }}
         </div>
         <h3>{{ .Params.conditions.title }}</h3>
@@ -82,7 +84,7 @@
         <div class="c-wait fr-mb-6v">
           <div class="fr-grid-row fr-grid-row--gutters fr-grid-row--middle">
             <div class="fr-col-12 fr-col-sm-3 fr-col-md-2 c-wait__icon">
-              <img src="img/hourglass.svg" alt="">
+              <img src="/img/hourglass.svg" alt="">
             </div>
             <div class="fr-col-12 fr-col-sm-9 fr-col-md-10">
               <h3>{{ .Params.wait.title }}</h3>
@@ -103,7 +105,8 @@
         {{ if .Params.open }}
         <div class="fr-mb-12v c-multi-btns">
           <a href="{{ .Params.head.apply.url }}" class="fr-btn fr-btn--lg">{{ .Params.head.apply.title }}</a>
-          <a href="{{ .Params.head.call.url }}" class="fr-link fr-link--lg fr-fi-download-line fr-link--icon-right" target="_blank">{{ .Params.head.call.title }}</a>
+          <a href="{{ .Params.head.call.url }}" class="fr-link fr-link--lg fr-fi-download-line fr-link--icon-right"
+            target="_blank">{{ .Params.head.call.title }}</a>
         </div>
         {{ end }}
       </div>
