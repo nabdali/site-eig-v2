@@ -7,7 +7,7 @@
   <div class="c-hero__content">
     <div class="fr-container">
       <div class="c-hero__inner">
-        <h1>{{ replace .Params.hero.title "\n" "<br/>" | safeHTML }}</h1>
+        <h1>{{ replace .Params.hero.title "\n" "<br />" | safeHTML }}</h1>
         {{ if ne .Params.hero.btn.title "" }}
         <a href="{{ .Params.hero.btn.url }}" class="fr-btn">{{ .Params.hero.btn.title }}</a>
         {{ end }}
@@ -41,13 +41,13 @@
     </div>
     <div class="fr-grid-row fr-grid-row--gutters fr-grid-row--center fr-mb-10v">
       {{ range first 3 ( where .Site.RegularPages "Type" "defis" ).ByDate }}
-        <div class="fr-col-12 fr-col-sm-6 fr-col-md-4 fr-col-xl-3">
-          {{ .Render "li" }}
-        </div>
+      <div class="fr-col-12 fr-col-sm-6 fr-col-md-4 fr-col-xl-3">
+        {{ .Render "li" }}
+      </div>
       {{ end }}
     </div>
     <div class="c-section__btn">
-      <a href="{{ relref . "defis" }}" class="fr-btn fr-btn--secondary">Parcourir d'autres défis</a>
+      <a href="{{ relref . " defis" }}" class="fr-btn fr-btn--secondary">Parcourir d'autres défis</a>
     </div>
   </div>
 </div>
@@ -68,12 +68,12 @@
     <div class="fr-grid-row fr-grid-row--gutters fr-grid-row--center fr-mb-10v">
       {{ range $personnes }}
       <div class="fr-col-12 fr-col-sm-6 fr-col-md-4 fr-col-xl-3">
-        {{ .Render "li" }}       
+        {{ .Render "li" }}
       </div>
       {{ end }}
     </div>
     <div class="c-section__btn">
-      <a href="{{ relref . "talents" }}" class="fr-btn fr-btn--secondary">Découvrir d'autres profils EIG</a>
+      <a href="{{ relref . " talents" }}" class="fr-btn fr-btn--secondary">Découvrir d'autres profils EIG</a>
     </div>
   </div>
 </div>
@@ -98,7 +98,7 @@
         <div class="fr-grid-row fr-grid-row--gutters fr-grid-row--middle c-section__agent fr-enlarge-link">
           <div class="fr-col-12 fr-col-lg-4">
             <div class="c-rounded">
-              <img src="{{ .Params.image }}" alt="">
+              <img src="/{{ .Params.image }}" alt="">
             </div>
           </div>
           <div class="fr-col-12 fr-col-lg-8">
@@ -114,7 +114,8 @@
       {{ end }}
     </div>
     <div class="c-section__btn fr-mt-8v">
-      <a href="{{ relref . "agents" }}" class="fr-btn fr-btn--secondary">Découvrir d'autres profils d'agents publics</a>
+      <a href="{{ relref . " agents" }}" class="fr-btn fr-btn--secondary">Découvrir d'autres profils d'agents
+        publics</a>
     </div>
   </div>
 </div>
@@ -133,7 +134,8 @@
         <h2 class="fr-h1">{{ .Params.join.title }}</h2>
         <p class="fr-text--lead">{{ .Params.join.sub }}</p>
         {{ if ne .Params.join.btn.title "" }}
-        <a href="{{ .Params.join.btn.url }}" class="fr-btn"{{ if .Params.join.btn.external }}target="_blank"{{ end }}>{{ .Params.join.btn.title }}</a>
+        <a href="{{ .Params.join.btn.url }}" class="fr-btn" {{ if .Params.join.btn.external }}target="_blank" {{ end
+          }}>{{ .Params.join.btn.title }}</a>
         {{ end }}
       </div>
     </div>
@@ -159,7 +161,7 @@
             <h4 class="fr-tile__title">
               {{ with $tile.link }}<a href="{{ . }}" class="fr-tile__link" target="_blank">{{ end }}
                 {{ $tile.title }}
-              {{ with $tile.link }}</a>{{ end }}
+                {{ with $tile.link }}</a>{{ end }}
             </h4>
           </div>
           <div class="fr-tile__img">

@@ -16,5 +16,5 @@ join:
   title: Vous voulez rejoindre notre ecosystème, apporter un soutien aux défis,
     devenir partenaire du programme ?
   desc: "Contactez-nous "
-  link: https://eig.etalab.gouv.fr/contact/
+  link: /contact
 ---

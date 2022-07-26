@@ -11,12 +11,12 @@ numbers:
   - num: "80"
     title: administrations impactées
     btnTitle: Profils des agents publics
-    btnUrl: https://eig.etalab.gouv.fr/agents
+    btnUrl: /agents
 steps:
   title: |
     Les 3 phases du programme
   list:
-    - icon: img/phase1.png
+    - icon: /img/phase1.png
       step: Phase 1
       duration: 5 mois
       title: Concevoir
@@ -26,7 +26,7 @@ steps:
         indicateurs, ouvrir ou non ses données), tester et recevoir des retours
         (revue code et design), faciliter l'appropriation (gérer les
         résistances, fabriquer un argumentaire)...
-    - icon: img/phase2.png
+    - icon: /img/phase2.png
       step: Phase 2
       duration: 3 mois
       title: Consolider
@@ -43,7 +43,7 @@ steps:
         développer les opportunités d'ouverture (briques techniques, codes,
         données, design...), de mutualisation et de réplication des outils et
         des données.
-      icon: img/phase3.png
+      icon: /img/phase3.png
       step: Phase 3
       duration: 2 mois
       title: Amplifier
@@ -86,7 +86,7 @@ how:
     Pour les accompagner dans la réussite de leurs défis, le programme offre tout au long des 10 mois un appui méthodologique et une expertise entrepreneuriale adaptée au contexte de l'administration. 
 
 
-    ![](img/steps3.svg)
+    ![](/img/steps3.svg)
 then:
   desc: >-
     ## Et après ?
@@ -97,7 +97,7 @@ then:
 
     Pour les agents publics, le programme permet d'intégrer des outils et des talents durablement dans leurs services pour faire évoluer la qualité du service public. **90% des défis relevés lors du programme perdurent** ensuite dans les administrations qui les ont menés.
 quote:
-  photo: img/marguerite-yourcenar3.jpg
+  photo: /img/marguerite-yourcenar3.jpg
   quote: Même là où j’innovais, j’aimais à me sentir avant tout un continuateur.
   name: Marguerite Yourcenar
   desc: Mémoires d’Hadrien
