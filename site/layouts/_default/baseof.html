@@ -1,20 +1,22 @@
 <!doctype html>
 <html lang="fr">
-  {{ partial "head" . }}
-  <body class="sans-serif">
+{{ partial "head" . }}
 
-    {{ block "header" . }}{{ partial "nav" . }}{{end}}
+<body class="sans-serif">
 
-    <main role=”main” id="contenu">
-      {{ block "main" . }}{{ end }}
-    </main>
+  {{ block "header" . }}{{ partial "nav" . }}{{end}}
 
-    {{ block "footer" . }}{{ partial "footer" . }}{{end}}
+  <main role="main" id="contenu">
+    {{ block "main" . }}{{ end }}
+  </main>
 
-    <script src="/tarteaucitron/tarteaucitron.js"></script>
-    {{ $script := .Site.Data.webpack.main }}
-    {{ with $script.js }}
-      <script src="{{ relURL . }}"></script>
-    {{ end }}
-  </body>
+  {{ block "footer" . }}{{ partial "footer" . }}{{end}}
+
+  <script src="/tarteaucitron/tarteaucitron.js"></script>
+  {{ $script := .Site.Data.webpack.main }}
+  {{ with $script.js }}
+  <script src="{{ relURL . }}"></script>
+  {{ end }}
+</body>
+
 </html>
