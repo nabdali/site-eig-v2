@@ -24,9 +24,7 @@
         </div>
       </nav>
       <h1 class="fr-mb-8v">{{ .Title }}</h1>
-      <!-- <ul class="fr-accordions-group fr-mb-8v"> -->
       {{ range $index, $question := .Params.questions }}
-      <!-- <li> -->
       <section class="fr-accordion">
         <h3 class="fr-accordion__title">
           <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-{{ $index }}">{{ .title
@@ -36,9 +34,7 @@
           {{ partial "markdownify-block" .desc }}
         </div>
       </section>
-      <!-- </li> -->
       {{ end }}
-      <!-- </ul> -->
       <div class="c-wysiwyg fr-mb-12v">
         {{ partial "markdownify-block" .Params.contact }}
       </div>
