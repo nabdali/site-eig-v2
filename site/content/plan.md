@@ -3,6 +3,7 @@ title: Plan du site
 layout: page
 url: /plan-du-site
 ---
+<!-- We add the class "no-li-dot" to hide li dots for this specific page -->
 <div class="no-li-dot">
 
 * ## [Accueil](https://eig.etalab.gouv.fr/)
