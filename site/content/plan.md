@@ -8,7 +8,7 @@ url: /plan-du-site
 * ## [Accueil](https://eig.etalab.gouv.fr/)
 * ## [Programme](https://eig.etalab.gouv.fr/programme/)
 * ## [Défis](https://eig.etalab.gouv.fr/defis/)
-* ## Participantes
+* ## Participants
 
   * ### [Talents EIG](https://eig.etalab.gouv.fr/talents/)
   * ### [Agents publics](https://eig.etalab.gouv.fr/agents/)
