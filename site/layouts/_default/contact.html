@@ -4,25 +4,16 @@
   <div class="fr-grid-row fr-grid-row--center">
     <div class="fr-col-12 fr-col-lg-10">
       <nav role="navigation" class="fr-breadcrumb" aria-label="vous êtes ici :">
-        <button
-          class="fr-breadcrumb__button"
-          aria-expanded="false"
-          aria-controls="breadcrumb-192"
-        >
+        <button class="fr-breadcrumb__button" aria-expanded="false" aria-controls="breadcrumb-192">
           Voir le fil d’Ariane
         </button>
         <div class="fr-collapse" id="breadcrumb-192">
           <ol class="fr-breadcrumb__list">
             <li>
-              <a class="fr-breadcrumb__link" href="{{ .Site.BaseURL }}"
-                >Accueil</a
-              >
+              <a class="fr-breadcrumb__link" href="{{ .Site.BaseURL }}">Accueil</a>
             </li>
-            <li></li>
             <li>
-              <a class="fr-breadcrumb__link" aria-current="page"
-                >{{ .Title }}</a
-              >
+              <a class="fr-breadcrumb__link" aria-current="page">{{ .Title }}</a>
             </li>
           </ol>
         </div>
@@ -30,10 +21,7 @@
       <h1 class="fr-mb-10v">Nous contacter</h1>
       <div class="fr-grid-row fr-grid-row--gutters">
         <div class="fr-col-12 fr-col-lg-6">
-          <form
-            action="https://formspree.io/f/mayavydj"
-            method="POST"
-          >
+          <form action="https://formspree.io/f/mayavydj" method="POST">
             <div class="fr-form-group">
               <fieldset class="fr-fieldset">
                 <div class="fr-fieldset__content">
@@ -42,42 +30,18 @@
                     <input class="fr-input" type="text" id="nom" name="nom" required />
                   </div>
                   <div class="fr-input-group">
-                    <label class="fr-label" for="email"
-                      >Votre adresse e-mail*</label
-                    >
-                    <input
-                      class="fr-input"
-                      type="email"
-                      id="email"
-                      name="email"
-                      required
-                    />
+                    <label class="fr-label" for="email">Votre adresse e-mail*</label>
+                    <input class="fr-input" type="email" id="email" name="email" required />
                   </div>
                   <div class="fr-input-group">
                     <label class="fr-label" for="sujet">Votre sujet*</label>
-                    <input
-                      class="fr-input"
-                      type="text"
-                      id="sujet"
-                      name="sujet"
-                      required
-                    />
+                    <input class="fr-input" type="text" id="sujet" name="sujet" required />
                   </div>
                   <div class="fr-input-group">
                     <label class="fr-label" for="message">Votre message*</label>
-                    <textarea
-                      class="fr-input"
-                      rows="5"
-                      id="message"
-                      name="message"
-                      required
-                    ></textarea>
+                    <textarea class="fr-input" rows="5" id="message" name="message" required></textarea>
                   </div>
-                  <button
-                    class="fr-btn"
-                    title="Envoyer le formulaire"
-                    type="submit"
-                  >
+                  <button class="fr-btn" title="Envoyer le formulaire" type="submit">
                     Envoyer
                   </button>
                 </div>
