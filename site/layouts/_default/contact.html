@@ -21,28 +21,30 @@
       <h1 class="fr-mb-10v">Nous contacter</h1>
       <div class="fr-grid-row fr-grid-row--gutters">
         <div class="fr-col-12 fr-col-lg-6">
+          <p>* champs obligatoires</p>
           <form action="https://formspree.io/f/mayavydj" method="POST">
             <div class="fr-form-group">
               <fieldset class="fr-fieldset">
                 <div class="fr-fieldset__content">
                   <div class="fr-input-group">
-                    <label class="fr-label" for="nom">Votre nom*</label>
+                    <label class="fr-label" for="nom">Votre nom *</label>
                     <input class="fr-input" type="text" id="nom" name="nom" required />
                   </div>
                   <div class="fr-input-group">
-                    <label class="fr-label" for="email">Votre adresse e-mail*</label>
+                    <label class="fr-label" for="email">Votre adresse e-mail *</label>
+                    <label class="fr-label fr-hint-text" for="email">Format attendu : nom@domaine.fr</label>
                     <input class="fr-input" type="email" id="email" name="email" required />
                   </div>
                   <div class="fr-input-group">
-                    <label class="fr-label" for="sujet">Votre sujet*</label>
+                    <label class="fr-label" for="sujet">Votre sujet *</label>
                     <input class="fr-input" type="text" id="sujet" name="sujet" required />
                   </div>
                   <div class="fr-input-group">
-                    <label class="fr-label" for="message">Votre message*</label>
+                    <label class="fr-label" for="message">Votre message *</label>
                     <textarea class="fr-input" rows="5" id="message" name="message" required></textarea>
                   </div>
-                  <button class="fr-btn" title="Envoyer le formulaire" type="submit">
-                    Envoyer
+                  <button class="fr-btn" title="Envoyer votre message" type="submit">
+                    Envoyer votre message
                   </button>
                 </div>
               </fieldset>

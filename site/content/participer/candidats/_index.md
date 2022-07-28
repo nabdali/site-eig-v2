@@ -100,7 +100,7 @@ how:
 
     * Accédez à [notre foire aux questions](https://eig.etalab.gouv.fr/participer/candidats/faq/)
 
-    * Consultez la [](https://eig.etalab.gouv.fr/img/aac-eig6-plaquette.pdf)[plaquette de l'appel à candidatures 2022](https://eig.etalab.gouv.fr/img/aac-eig6-plaquette.pdf)
+    * Consultez la [plaquette de l'appel à candidatures 2022](https://eig.etalab.gouv.fr/img/aac-eig6-plaquette.pdf)
 
     * Lisez notre [article de blog](https://www.etalab.gouv.fr/letat-recherche-des-profils-du-numerique-rejoignez-les-entrepreneurs-dinteret-general/)
 wait:
