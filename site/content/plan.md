@@ -3,34 +3,30 @@ title: Plan du site
 layout: page
 url: /plan-du-site
 ---
+<div class="no-li-dot">
 
-[Accueil](https://eig.etalab.gouv.fr/)
+* ## [Accueil](https://eig.etalab.gouv.fr/)
 
-[Programme](https://eig.etalab.gouv.fr/programme/)
+* ## [Programme](https://eig.etalab.gouv.fr/programme/)
 
-[Défis](https://eig.etalab.gouv.fr/defis/)
+* ## [Défis](https://eig.etalab.gouv.fr/defis/)
 
-Participants
+* ## Participants
 
-> [Talents EIG](https://eig.etalab.gouv.fr/talents/)
->
-> [Agents publics](https://eig.etalab.gouv.fr/agents/)
+    * ### [Talents EIG](https://eig.etalab.gouv.fr/talents/)
+    * ### [Agents publics](https://eig.etalab.gouv.fr/agents/)
 
-[Equipe](https://eig.etalab.gouv.fr/equipe/)
+* ## [Équipe](https://eig.etalab.gouv.fr/equipe/)
 
-> L'équipe du programme
->
-> Ecosystème
+* ## [Participer](https://eig.etalab.gouv.fr/participer/)
 
-[Participer](https://eig.etalab.gouv.fr/participer/)
+* ### [Candidats](https://eig.etalab.gouv.fr/participer/candidats/)
 
-> [Candidats](https://eig.etalab.gouv.fr/participer/candidats/)
->
-> [Administrations](https://eig.etalab.gouv.fr/participer/administrations/)
->
-> - [Proposer un projet](https://eig.etalab.gouv.fr/participer/administrations/proposer/)
-> - [Cahier des charges](https://eig.etalab.gouv.fr/img/blank.pdf)
+    * ### [Administrations](https://eig.etalab.gouv.fr/participer/administrations/)
+        * #### [Proposer un projet](https://eig.etalab.gouv.fr/participer/administrations/proposer/)
+        * #### [Cahier des charges](https://eig.etalab.gouv.fr/img/aap-eig6-cahier-des-charges.pdf)
 
-[Contact](https://eig.etalab.gouv.fr/contact/)
+* ## [Contact](https://eig.etalab.gouv.fr/contact/)
 
-[Blog](https://eig.etalab.gouv.fr/blog/)
+* ## [Blog](https://eig.etalab.gouv.fr/blog/)
+</div>

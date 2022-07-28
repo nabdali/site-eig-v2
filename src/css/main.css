@@ -259,3 +259,7 @@ img {
     top: -2px;
   }
 }
+
+.no-li-dot ul li::before {
+  display: none;
+}
