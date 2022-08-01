@@ -50,7 +50,7 @@ steps:
 layout: program
 url: /programme
 image: img/bootcamp9_auto_x2-1-.jpg
-title: "Pourquoi ce programme ? "
+title: "Programme"
 desc: >-
   Entrepreneurs d'intérêt général permet à des talents du numérique ou **«** EIG
   **»** d'intégrer des administrations, pour relever en 10 mois des défis qui

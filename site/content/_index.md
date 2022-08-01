@@ -1,5 +1,5 @@
 ---
-title: Projets de la promotion 5
+title: Page d'accueil
 hero:
   btn:
     title: Participer

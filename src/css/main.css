@@ -258,6 +258,8 @@ img {
     position: relative;
     top: -2px;
   }
+
+  color:pink;
 }
 
 .no-li-dot ul li::before {
