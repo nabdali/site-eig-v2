@@ -258,14 +258,14 @@ img {
     position: relative;
     top: -2px;
   }
-
-  color:pink;
 }
+
+/* These styles are added to support site's accessibility */
 
 .no-li-dot ul li::before {
   display: none;
 }
 
-.position-absolute {
-  position: absolute;
+a.fr-tag.outlined {
+  outline-width: 2px !important;
 }
