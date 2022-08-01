@@ -265,3 +265,7 @@ img {
 .no-li-dot ul li::before {
   display: none;
 }
+
+.position-absolute {
+  position: absolute;
+}
