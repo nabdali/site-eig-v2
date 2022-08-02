@@ -46,4 +46,4 @@ Rendez-vous sur la [page de présentation de l'appel à candidatures](https://d
 
 ## Réalisations
 
-{{< dailymotion x82dxpt >}}
+{{< dailymotion x82dxpt "Vidéo Dailymotion : Réalisation, CapQualif vous raconte ses 10 mois" >}}

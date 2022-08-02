@@ -795,7 +795,7 @@ tarteaucitron.services.artetv = {
 };
 
 // dailymotion
-// Source: https://github.com/AmauriC/tarteaucitron.js/pull/760
+// "data-" prefix is used for accessibiity. Source: https://github.com/AmauriC/tarteaucitron.js/pull/760
 tarteaucitron.services.dailymotion = {
     "key": "dailymotion",
     "type": "video",
@@ -807,6 +807,7 @@ tarteaucitron.services.dailymotion = {
         "use strict";
         tarteaucitron.fallback(['dailymotion_player'], function (x) {
             var video_id = x.getAttribute("data-video"),
+                video_title = x.getAttribute("data-title"),
                 video_width = x.getAttribute("data-width"),
                 frame_width = 'width=',
                 video_height = x.getAttribute("data-height"),
@@ -831,7 +832,7 @@ tarteaucitron.services.dailymotion = {
             if (embed_type === undefined || !['video', 'playlist'].includes(embed_type)) {
                 embed_type = "video";
             }
-            video_frame = '<iframe title="Dailymotion iframe" src="//www.dailymotion.com/embed/' + embed_type + '/' + video_id + '?' + params + '" ' + frame_width + frame_height + ' allowfullscreen></iframe>';
+            video_frame = '<iframe title="' + video_title + '" + src="//www.dailymotion.com/embed/' + embed_type + '/' + video_id + '?' + params + '" ' + frame_width + frame_height + ' allowfullscreen></iframe>';
             return video_frame;
         });
     },
