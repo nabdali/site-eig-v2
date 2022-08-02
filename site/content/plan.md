@@ -4,7 +4,7 @@ layout: page
 url: /plan-du-site
 ---
 <!-- We add the class "no-li-dot" to hide li dots for this specific page -->
-<div class="no-li-dot">
+<div class="a11y_no-li-dot">
 
 * ## [Accueil](https://eig.etalab.gouv.fr/)
 
@@ -30,4 +30,5 @@ url: /plan-du-site
 * ## [Contact](https://eig.etalab.gouv.fr/contact/)
 
 * ## [Blog](https://eig.etalab.gouv.fr/blog/)
+
 </div>

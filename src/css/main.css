@@ -260,12 +260,27 @@ img {
   }
 }
 
-/* These styles are added to support site's accessibility */
+/* These styles are added to support site's accessibility (a11y) */
 
-.no-li-dot ul li::before {
+.a11y_no-li-dot ul li::before {
   display: none;
 }
 
-a.fr-tag.outlined {
+a.fr-tag.a11y_outlined {
   outline-width: 2px !important;
+}
+
+/* Source: https://www.nomensa.com/blog/how-improve-web-accessibility-hiding-elements */
+.a11y_visually-hidden {
+  border: 0;
+  clip: rect(1px, 1px, 1px, 1px);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+  /* IE6, IE7 */
+  clip: rect(1px 1px 1px 1px);
+
 }

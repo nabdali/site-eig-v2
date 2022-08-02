@@ -7,7 +7,7 @@
     <p class="fr-card__desc">{{ .Description }}</p>
     <ul class="fr-tags-group">
       {{ range (.GetTerms "categories") }}
-      <li><a class="fr-tag outlined" href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+      <li><a class="fr-tag a11y_outlined" href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
       {{ end }}
     </ul>
   </div>
