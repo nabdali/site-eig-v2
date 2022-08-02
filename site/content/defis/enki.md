@@ -15,7 +15,7 @@ expertises:
 image: img/eig4-enki.svg
 visible: true
 ---
-{{< dailymotion x82dy83 >}}
+{{< dailymotion x82dy83  "Vidéo Dailymotion : Réalisation, Enki vous raconte ses 10 mois">}}
 
 L’Agence du Numérique de la Sécurité Civile souhaite mettre en place une interface permettant de centraliser, organiser et communiquer les informations provenant des services d’urgence et de leurs partenaires, nécessaires aux autorités pour gérer les crises au mieux.
 
