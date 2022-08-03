@@ -20,10 +20,9 @@ Dans un contexte d’engagement de l’Etat en faveur de l’ouverture des donn�
 
 ### Code
 
-Le code du site fonctionne à travers trois branches : `master`, `develop` et `prepod`. 
-- La branche `master` est la production, à laquelle est connectée le back-office. 
-- La branche `develop` est une branche de travail permettant de réaliser les développements.
-- La branche `prepod` permet de tester les développements avant de les basculer sur la branche `master`.
+Le code du site fonctionne à travers deux branches : `master` et `prepod-v2`. 
+- La branche `master` est la production, à laquelle est connectée le back-office. Un `push` sur cette branche déploie le site sur https://eig.etalab.gouv.fr.
+- La branche `prepod-v2` permet de tester les développements avant de les basculer sur la branche `master`. Un `push` sur cette branche déploie le site sur https://preprod.eig.etalab.gouv.fr (identifiants disponibles dans la documentation privée).
 
 *Remarque : la branche `master` est en cours de renommage en `main`.*
 
@@ -31,38 +30,23 @@ Le code du site fonctionne à travers trois branches : `master`, `develop` et `p
 
 Il existe deux façons de modifier les contenus (textes du site, biographies, articles, etc.) du site :
 
-- Soit en modifiant directement les fichiers. Dans ce cas, le changement est à faire sur une branche créée pour l'occasion, puis à intégrer à `master` via une pull request sur Github (avant d'accepter la pull request, il est possible de prévisualiser le changement apporté au site via un lien automatiquement généré par Netlify).
+- Soit en modifiant directement les fichiers. Dans ce cas, le changement est à faire sur une branche créée pour l'occasion, puis à intégrer à `preprod-v2` pour visualiser les changements, et enfin à passer sur la branche `master` pour que envoyer les changements en production.
 
-- Soit en passant par le [back-office](https://eig.etalab.gouv.fr/admin) du site. En effet, le site fonctionne comme un CMS. Chaque modification opérée via le back-office a d'abord le statut de `draft`. Une branche est automatiquement créée pour chaque draft. Lorsque l'auteur(e) change le statut de la modification de `draft` à `publié`, la branche est automatiquement mergée à `master`.
+- Soit en passant par le [back-office](https://eig.etalab.gouv.fr/admin) du site. En effet, le site fonctionne comme un CMS. Chaque modification opérée via le back-office a d'abord le statut de `draft`. Une branche est automatiquement créée pour chaque draft. Lorsque l'auteur(e) change le statut de la modification de `draft` à `publié`, la branche est automatiquement mergée à `master`. *Note : pour accéder au back-office, les contributeur·trice·s doivent être membres du répertoire Github.*
 
-## Fonctionnement technique : Hugo template for Netlify CMS with Netlify Identity
+## Fonctionnement technique : Hugo template for Netlify CMS
+
+### Lancer le projet en local (= sur son ordinateur)
+
+1. Cloner le repository
+2. Installer les dépendances avec la commande `npm install`.
+2. Lancer le projet avec la commande `npm run start`.
+
+### Généralités
 
 La documentation qui suit est en anglais car elle provient de Netlify directement.
 
 This is a small business template built with [Victor Hugo](https://github.com/netlify/victor-hugo) and [Netlify CMS](https://github.com/netlify/netlify-cms), designed and developed by [Darin Dimitroff](http://www.darindimitroff.com/), [spacefarm.digital](https://www.spacefarm.digital).
-
-### Getting started
-
-Use our deploy button to get your own copy of the repository. 
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/one-click-hugo-cms&stack=cms)
-
-This will setup everything needed for running the CMS:
-
-* A new repository in your GitHub account with the code
-* Full Continuous Deployment to Netlify's global CDN network
-* Control users and access with Netlify Identity
-* Manage content with Netlify CMS
-
-Once the initial build finishes, you can invite yourself as a user. Go to the Identity tab in your new site, click "Invite" and send yourself an invite.
-
-Now you're all set, and you can start editing content!
-
-### Local Development
-
-Clone this repository, and run `yarn` or `npm install` from the new folder to install all required dependencies.
-
-Then start the development server with `yarn start` or `npm start`.
 
 ### Layouts
 
