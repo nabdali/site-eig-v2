@@ -40,8 +40,8 @@ Grâce à ce défi, l’Essonne est devenue un modèle d’ouverture des donnée
 
 10 mois après : présentation du défi Prévisecours
 
-{{< dailymotion x6y055b >}}
+{{< dailymotion x6y055b "Vidéo présentant le défi Prévisecours">}}
 
 Découvrez l’outil Prévisecours
 
-{{< dailymotion x7okqx2 >}}
+{{< dailymotion x7okqx2 "Vidéo présentant l'outil Prévisecours">}}

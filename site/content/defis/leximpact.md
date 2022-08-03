@@ -54,4 +54,4 @@ En parallèle, un ensemble de cas types décrivant des situations de personnes e
 
 S’ouvrir à des communautés et à des partenaires, l’exemple du défi LexImpact
 
-{{< dailymotion x7o1565 >}}
+{{< dailymotion x7o1565 "Vidéo présentant les réalisations du défi LexImpact">}}

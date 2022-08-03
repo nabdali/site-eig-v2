@@ -29,4 +29,4 @@ Pour cela, Emmanuel et Jean-Baptiste œuvrent sur deux fronts. Sur le premier, i
 
 10 mois après : présentation du défi Archifiltre.
 
-{{< dailymotion x6y009x >}}
+{{< dailymotion x6y009x "Vidéo Archifiltre">}}

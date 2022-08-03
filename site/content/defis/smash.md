@@ -15,7 +15,7 @@ expertises:
 image: img/12_smash_10.svg
 visible: true
 ---
-{{< dailymotion x81fhbz >}}
+{{< dailymotion x81fhbz "Vidéo de présentation du défi SMASH">}}
 
 ## Le contexte
 

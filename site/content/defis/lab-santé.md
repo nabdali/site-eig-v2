@@ -24,4 +24,4 @@ Philéas, Julien et Samah ont deux missions. La première, accompagner la Direct
 
 10 mois après : présentation du défi Lab Santé
 
-{{< dailymotion x6y04tp >}}
+{{< dailymotion x6y04tp "Vidéo présentant les réalisations du défi Lab Santé">}}

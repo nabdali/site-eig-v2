@@ -32,4 +32,4 @@ Bastien, Entrepreneur d’intérêt général de la première promotion et EIG L
 
 10 mois après : présentation du défi EIG Link.
 
-{{< dailymotion x6y04qm >}}
+{{< dailymotion x6y04qm "Vidéo présentant les réalisations du défi EIG Link Promotion 2">}}

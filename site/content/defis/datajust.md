@@ -42,4 +42,4 @@ Ce projet s’inscrit dans le cadre de [l’avant-projet de réforme de la resp
 
 Implémenter de nouveaux outils et méthodes de travail dans l’administration, l’exemple du défi DataJust
 
-{{< dailymotion x7o1569 >}}
+{{< dailymotion x7o1569 "Vidéo présentant les réalisations du défi DataJust">}}

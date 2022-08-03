@@ -16,7 +16,7 @@ expertises:
 image: img/eig4-open-collectivité-1-.svg
 visible: true
 ---
-{{< dailymotion x82dytp >}}
+{{< dailymotion x82dytp "Vidéo de présentation du défi Open Collectivités">}}
 
 ## La problématique : des informations disséminées sur différents canaux
 

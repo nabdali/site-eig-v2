@@ -17,7 +17,7 @@ image: img/promotion-6/defis/04_EstimAction.svg
 visible: true
 ---
 
-{{< dailymotion x8akknf >}}
+{{< dailymotion x8akknf "Vidéo de présentation du défi Estim'Action">}}
 
 ## Le défi à relever
 

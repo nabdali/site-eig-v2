@@ -15,7 +15,7 @@ expertises:
 image: img/06_gd4h_10.svg
 visible: true
 ---
-{{< dailymotion x81fh9n >}}
+{{< dailymotion x81fh9n "Vidéo de présentation du défi Green Data for Health">}}
 
 ## Le contexte
 

@@ -41,4 +41,4 @@ Au sein du Lab’R, et en se basant sur la plateforme Agi’R, le défi Karfu’
 
 Assurer l’accès aux droits des citoyennes et citoyens, l’exemple du défi Karfu’R
 
-{{< dailymotion x7o1567 >}}
+{{< dailymotion x7o1567 "Vidéo présentant les réalisations du défi Karfu’R" >}}

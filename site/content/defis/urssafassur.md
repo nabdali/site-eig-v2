@@ -14,7 +14,7 @@ expertises:
 image: img/01_urssafassur_10.svg
 visible: true
 ---
-{{< dailymotion x81fhd7 >}}
+{{< dailymotion x81fhd7 "Vidéo de présentation du défi UrssafassuR">}}
 
 ## Le contexte
 

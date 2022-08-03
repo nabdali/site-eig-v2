@@ -16,7 +16,7 @@ image: img/promotion-6/defis/10_Pilote_intelligence.svg
 visible: true
 ---
 
-{{< dailymotion x8akknk >}}
+{{< dailymotion x8akknk "Vidéo de présentation du défi Pilote Intelligence">}}
 
 ## Le défi à relever
 

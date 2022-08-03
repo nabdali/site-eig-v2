@@ -25,4 +25,4 @@ Au sein de la Direction Générale des Finances Publiques, Marion a développé 
 
 10 mois après : retour d’expérience sur l’aventure EIG.
 
-{{< dailymotion x64z39u >}}
+{{< dailymotion x64z39u "Vidéo présentant les réalisations du défi DGFiP - fraude fiscale">}}

@@ -37,4 +37,4 @@ Elsa et Antoine construisent un outil capable d’identifier les profils et situ
 
 10 mois après : présentation du défi PrédiSauvetage.
 
-{{< dailymotion x6y04yt >}}
+{{< dailymotion x6y04yt "Vidéo présentant les réalisations du défi PrédiSauvetage">}}

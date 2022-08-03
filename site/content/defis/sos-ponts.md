@@ -18,7 +18,7 @@ image: img/promotion-6/defis/03_SOS-Ponts.svg
 visible: true
 ---
 
-{{< dailymotion x8akkng >}}
+{{< dailymotion x8akkng "Vidéo de présentation du défi SOS Ponts">}}
 
 ## Le défi à relever
 

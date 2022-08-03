@@ -16,7 +16,7 @@ expertises:
 image: img/08_epshad_10.svg
 visible: true
 ---
-{{< dailymotion x81fh2t >}}
+{{< dailymotion x81fh2t "Vidéo de présentation du défi ePSHAD">}}
 
 ## Le contexte
 

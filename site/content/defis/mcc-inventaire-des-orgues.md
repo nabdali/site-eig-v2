@@ -28,6 +28,6 @@ Bastien a développé un site web collaboratif rassemblant les données publique
 
 10 mois après : retour d’expérience sur l’aventure EIG.
 
-{{< dailymotion x64z39q >}}
+{{< dailymotion x64z39q "Vidéo présentant les réalisations du défi MCC - Inventaire des orgues">}}
 
 {{< arrow-link url="https://www.culture.gouv.fr/Actualites/Une-encyclopedie-participative-pour-les-orgues-de-France" title="Une encyclopédie participative pour les orgues de France — Découvrir l'article " target="true" >}}

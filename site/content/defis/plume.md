@@ -38,4 +38,4 @@ Ce projet sera l’occasion d’API-fier les applications « métier » des JF
 
 Implémenter de nouveaux outils et méthodes de travail dans l’administration, l’exemple du défi Plume
 
-{{< dailymotion x7o1569 >}}
+{{< dailymotion x7o1569 "Vidéo présentant les réalisations du défi Plume">}}

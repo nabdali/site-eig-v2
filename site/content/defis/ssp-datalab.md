@@ -42,7 +42,7 @@ Le défi se focalisera sur l’amélioration :
 
 La création d’une communauté de pratiques est un axe essentiel du défi. L’ambition de cette offre de service est d’améliorer la qualité des traitements de données grâce à un partage des bonnes pratiques au sein du service statistique public.
 
-{{< dailymotion x82e13y >}}
+{{< dailymotion x82e13y "Vidéo présentant les réalisations du défi SSP Datalab">}}
 
 ## Webinaire
 

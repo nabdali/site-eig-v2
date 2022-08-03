@@ -25,4 +25,4 @@ La solution développée par Étienne : Urban Dashboard, une plateforme web ouve
 
 10 mois après : retour d’expérience sur l’aventure EIG.
 
-{{< dailymotion x64z39y >}}
+{{< dailymotion x64z39y "Vidéo AFD - Geodata">}}

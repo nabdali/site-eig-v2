@@ -16,7 +16,7 @@ image: img/promotion-6/defis/07_TwinCity.svg
 visible: true
 ---
 
-{{< dailymotion x8akknn >}}
+{{< dailymotion x8akknn "Vidéo de présentation du défi TwinCity">}}
 
 ## Le défi à relever
 

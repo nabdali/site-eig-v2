@@ -38,4 +38,4 @@ Pour développer ExploCode, trois axes de travail ont été identifiés :
 
 Assurer l’accès aux droits des citoyennes et citoyens, l’exemple du défi ExploCode
 
-{{< dailymotion x7o1567 >}}
+{{< dailymotion x7o1567 "Vidéo présentant les réalisations du défi ExploCode">}}

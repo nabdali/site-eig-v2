@@ -43,4 +43,4 @@ La loi du 26 janvier 2016 de modernisation du système de santé français a cr�
 
 S’ouvrir à des communautés et à des partenaires, l’exemple du défi Open Chronic
 
-{{< dailymotion x7o1565 >}}
+{{< dailymotion x7o1565 "Vidéo présentant les réalisations du défi Open Chronic">}}

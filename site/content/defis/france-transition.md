@@ -14,7 +14,7 @@ expertises:
 image: img/eig4-france-transition.svg
 visible: true
 ---
-{{< dailymotion x82dyfj >}}
+{{< dailymotion x82dyfj "Vidéo présentant le défi France Transition">}}
 
 ## La problématique : les aides publiques liées à la transition écologie des entreprises restent difficiles d’accès.
 
@@ -44,4 +44,4 @@ L’objectif de la plateforme Mission Transition est de motiver les entreprises 
 
 Ce défi a été présenté lors du webinaire « Santé et justice » du lundi 18 mai. Les agents publics qui portent le défi en ont profité pour répondre à de nombreuses questions que se posaient les candidats. 
 
-{{< dailymotion x82e1ah >}}
+{{< dailymotion x82e1ah "Vidéo présentant les réalisations du défi France Transition">}}

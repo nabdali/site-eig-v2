@@ -16,7 +16,7 @@ image: img/promotion-6/defis/13_Geocommuns.svg
 visible: true
 ---
 
-{{< dailymotion x8aklbk >}}
+{{< dailymotion x8aklbk "Vidéo de présentation du défi Géocommuns">}}
 
 ## Le défi à relever
 

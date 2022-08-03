@@ -32,4 +32,4 @@ Dora et Jean-Baptiste développent des outils qui favorisent le contact avec la 
 
 10 mois après : présentation du défi Brigade Numérique.
 
-{{< dailymotion x6y04vu >}}
+{{< dailymotion x6y04vu "Vidéo présentant les réalisations du défi Brigade Numérique">}}

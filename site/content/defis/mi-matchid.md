@@ -27,8 +27,8 @@ L’outil développé par Martin, matchID, mêle des techniques d’analyse des 
 
 10 mois après : retour d’expérience sur l’aventure EIG.
 
-{{< dailymotion x64z39w >}}
+{{< dailymotion x64z39w "Vidéo présentant les réalisations du défi matchID">}}
 
 Découvrez l’outil MatchID
 
-{{< dailymotion x7okqx1 >}}
+{{< dailymotion x7okqx1 "Vidéo présentant l'outil matchID">}}

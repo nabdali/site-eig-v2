@@ -17,7 +17,7 @@ image: img/promotion-6/defis/11_SIRANo.svg
 visible: true
 ---
 
-{{< dailymotion x8akknj >}}
+{{< dailymotion x8akknj "Vidéo de présentation du défi SIRANo">}}
 
 ## Le défi à relever
 

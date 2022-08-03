@@ -18,7 +18,7 @@ image: img/promotion-6/defis/08_OptiFlex.svg
 visible: true
 ---
 
-{{< dailymotion x8aotqe >}}
+{{< dailymotion x8aotqe "Vidéo de présentation du défi OptiFlex">}}
 
 ## Le défi à relever
 

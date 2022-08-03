@@ -39,4 +39,4 @@ L’Arcep pourra ainsi renforcer la maîtrise de ses données et sa capacité d�
 
 Faire des données un outil de régulation, l’exemple du défi DataReg
 
-{{< dailymotion x7o1566 >}}
+{{< dailymotion x7o1566 "Vidéo présentant les réalisations du défi DataReg">}}

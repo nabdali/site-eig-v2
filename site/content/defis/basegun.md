@@ -17,7 +17,7 @@ ogImage: img/test-og.png
 visible: true
 ---
 
-{{< dailymotion x81fgiw >}}
+{{< dailymotion x81fgiw "Vidéo de présentation du défi Basegun">}}
 
 ## Le contexte
 

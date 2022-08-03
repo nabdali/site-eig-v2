@@ -21,7 +21,7 @@ Aperçu des travaux déjà réalisés par la promotion 4.
 
 Les équipes agents publics-EIG ont consacré les premiers mois du programme à initier et construire leurs projets pour maintenant s’atteler au déploiement de leurs solutions.  À l’occasion d’un Demo Day public qui s’est tenu le 11 février 2021, les équipes ont pu raconter leurs avancées et montrer leurs prototypes. Les réalisations sont à découvrir dans cette vidéo :
 
-{{< dailymotion x7zgtds >}}
+{{< dailymotion x7zgtds "Vidéo Demo Day EIG 4">}} 
 
 *L’horodatage de chaque projet est indiqué en description sur la page Dailymotion.*
 

@@ -17,7 +17,7 @@ image: img/promotion-6/defis/01_Nubonyxia.svg
 visible: true
 ---
 
-{{< dailymotion x8akkii >}}
+{{< dailymotion x8akkii "Vidéo de présentation du défi Nubonyxia">}}
 
 ## Le défi à relever
 

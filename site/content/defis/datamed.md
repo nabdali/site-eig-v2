@@ -64,4 +64,4 @@ Outre les réalisations techniques, une grande partie de **la mission des EIG a
 
 ## Réalisations
 
-{{< dailymotion x82dxy0 >}}
+{{< dailymotion x82dxy0 "Vidéo présentant les réalisations du défi DataMed">}}
