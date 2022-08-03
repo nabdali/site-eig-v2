@@ -32,4 +32,4 @@ Actuellement, cette démarche d’ouverture se poursuit. L’équipe ajoute de n
 
 10 mois après : présentation du défi Gobelins
 
-{{< dailymotion x6y056l >}}
+{{< dailymotion x6y056l "Vidéo présentant les réalisations du défi Gobelins">}}

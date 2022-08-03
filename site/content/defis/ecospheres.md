@@ -18,7 +18,7 @@ image: img/promotion-6/defis/02_écosphère(s).svg
 visible: true
 ---
 
-{{< dailymotion x8akknh >}}
+{{< dailymotion x8akknh "Vidéo de présentation du défi Ecosphère(s)">}}
 
 ## Le défi à relever
 

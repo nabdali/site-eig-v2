@@ -15,7 +15,7 @@ expertises:
 image: img/03_mes-services-greentech_10.svg
 visible: true
 ---
-{{< dailymotion x81fhaf >}}
+{{< dailymotion x81fhaf "Vidéo de présentation du défi Mes services Greentech">}}
 
 ## Le contexte
 

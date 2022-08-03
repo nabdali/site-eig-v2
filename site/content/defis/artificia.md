@@ -16,7 +16,7 @@ image: img/promotion-6/defis/05_ArtificIA.svg
 visible: true
 ---
 
-{{< dailymotion x8akkne >}}
+{{< dailymotion x8akkne "Vidéo de présentation du défi ArtificIA">}}
 
 ## Le défi à relever
 

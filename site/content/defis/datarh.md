@@ -23,7 +23,7 @@ Depuis plusieurs années, la Direction des ressources humaines de l’Agence ré
 
 Le capital humain de l’ARS ARA est actuellement suivi à l’aide de différentes applications non connectées (solutions de paie, outils de gestion du temps et des activités, etc.). Cet éparpillement des données RH a, jusqu’à aujourd’hui, fortement compliqué leur exploitation.
 
-{{< dailymotion x81fh1e >}}
+{{< dailymotion x81fh1e "Vidéo de présentation du défi DataRH">}}
 
 ## Le terrain de jeu
 

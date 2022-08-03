@@ -27,4 +27,4 @@ Pour cela, Frédéric a conçu une API (interface de programmation applicative).
 
 10 mois après : retour d’expérience sur l’aventure EIG.
 
-{{< dailymotion x64z39x >}}
+{{< dailymotion x64z39x "Vidéo présentant les réalisations du défi API rapports">}}

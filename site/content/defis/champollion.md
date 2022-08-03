@@ -18,7 +18,7 @@ image: img/promotion-6/defis/06_Champollion.svg
 visible: true
 ---
 
-{{< dailymotion x8akknd >}}
+{{< dailymotion x8akknd "Vidéo de présentation du défi Champollion">}}
 
 ## Le défi à relever
 

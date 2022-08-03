@@ -27,4 +27,4 @@ C’est à cette question que répond la « Magical Merge Machine », une solu
 
 10 mois après : retour d’expérience sur l’aventure EIG.
 
-{{< dailymotion x64z39w >}}
+{{< dailymotion x64z39w "Vidéo présentant les réalisations du défi MESRI - La machine à données">}}

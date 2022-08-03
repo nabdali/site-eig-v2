@@ -52,4 +52,4 @@ Ils auront par ailleurs l’occasion de participer aux autres activités d’Eta
 
 Implémenter de nouveaux outils et méthodes de travail dans l’administration, l’exemple du défi EIG Link
 
-{{< dailymotion x7o1569 >}}
+{{< dailymotion x7o1569 "Vidéo présentant les réalisations du défi EIG Link Promotion 3">}}

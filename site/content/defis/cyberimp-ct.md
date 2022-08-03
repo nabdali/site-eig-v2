@@ -17,7 +17,7 @@ image: img/10_cyberimpact_10.svg
 ogImage: img/og.png
 visible: true
 ---
-{{< dailymotion x81fgy3 >}}
+{{< dailymotion x81fgy3 "Vidéo de présentation du défi CyberImpact">}}
 
 ## Le contexte
 

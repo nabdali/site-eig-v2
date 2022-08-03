@@ -15,7 +15,7 @@ expertises:
 image: img/eig4-neotac.svg
 visible: true
 ---
-{{< dailymotion x82dyrp >}}
+{{< dailymotion x82dyrp "Vidéo de présentation du défi NEOTac">}}
 
 La Direction Générale de la Gendarmerie Nationale (DGGN) souhaite développer un outil permettant d’automatiser les plans d’intervention des unités de sécurité publique pour gagner en efficacité et en réactivité lors de situations d’urgence.
 

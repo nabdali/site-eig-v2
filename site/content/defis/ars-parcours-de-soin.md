@@ -24,4 +24,4 @@ Sébastien a développé un logiciel qui exploite les données de remboursement 
 
 10 mois après : retour d’expérience sur l’aventure EIG.
 
-{{< dailymotion x64z39z >}}
+{{< dailymotion x64z39z "Vidéo ARS - Parcours de soin">}}

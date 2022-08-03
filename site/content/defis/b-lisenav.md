@@ -24,4 +24,4 @@ Arnaud et Adrien travaillent donc à la fiabilisation des données partagées en
 
 10 mois après : présentation du défi b@liseNAV.
 
-{{< dailymotion x6y2cl0 >}}
+{{< dailymotion x6y2cl0 "Vidéo présentant les réalisations du défi baliseNAV">}}

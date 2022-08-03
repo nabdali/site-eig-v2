@@ -28,4 +28,4 @@ Pour y parvenir, Pierre et Christophe travaillent sur deux chantiers. D’une pa
 
 10 mois après : présentation du défi Signaux Faibles
 
-{{< dailymotion x6y059s >}}
+{{< dailymotion x6y059s "Vidéo présentant les réalisations du défi Signaux Faibles">}}

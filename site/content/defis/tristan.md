@@ -15,7 +15,7 @@ expertises:
 image: img/02_tristan_10.svg
 visible: true
 ---
-{{< dailymotion x81fhcf >}}
+{{< dailymotion x81fhcf "Vidéo de présentation du défi TRISTAN">}}
 
 ## Le contexte
 

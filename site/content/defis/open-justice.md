@@ -43,4 +43,4 @@ Les résultats de ces travaux pourront largement bénéficier à d’autres type
 
 Améliorer l’action publique à l’aide de la data science, l’exemple du défi Open Justice
 
-{{< dailymotion x7o1568 >}}
+{{< dailymotion x7o1568 "Vidéo présentant les réalisations du défi Open Justice">}}

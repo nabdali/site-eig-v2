@@ -41,4 +41,4 @@ L’objectif de la mission sera donc double :
 
 Améliorer l’action publique à l’aide de la data science, l’exemple du défi ADLER
 
-{{< dailymotion x7o1568 >}}
+{{< dailymotion x7o1568 "Vidéo ADLER">}}

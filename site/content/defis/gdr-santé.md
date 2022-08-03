@@ -16,7 +16,7 @@ expertises:
 image: img/05_gdr-santé_10.svg
 visible: true
 ---
-{{< dailymotion x81fh93 >}}
+{{< dailymotion x81fh93 "Vidéo de présentation du défi GDR Santé">}}
 
 ## Le contexte
 

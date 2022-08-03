@@ -16,7 +16,7 @@ expertises:
 image: img/15_dases.svg
 visible: true
 ---
-{{< dailymotion x81fgzk >}}
+{{< dailymotion x81fgzk "Vidéo de présentation du défi DaSES">}}
 
 ## Le contexte
 

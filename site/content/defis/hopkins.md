@@ -24,4 +24,4 @@ Paul et Benoît travaillent à la valorisation des données structurées issues 
 
 10 mois après : présentation du défi Hopkins
 
-{{< dailymotion x6y2cs5 >}}
+{{< dailymotion x6y2cs5 "Vidéo présentant les réalisations du défi Hopkins">}}

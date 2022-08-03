@@ -23,4 +23,4 @@ Arnaud et David, intégrés au Numérilab de l’Éducation nationale, ont pour 
 
 10 mois après : présentation du défi CoachÉlève.
 
-{{< dailymotion x6y0472 >}}
+{{< dailymotion x6y0472 "Vidéo présentant les réalisations du défi CoachÉlève">}}

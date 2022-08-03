@@ -14,7 +14,7 @@ expertises:
 image: img/eig4-label.svg
 visible: true
 ---
-{{< dailymotion x82dylb >}}
+{{< dailymotion"Vidéo de présentation du défi LABEL">}}
 
 La Cour de cassation souhaite mettre en place un outil d’annotation open source lui permettant d’accélérer et fiabiliser le processus de pseudonymisation des décisions de justice et leur mise en open data.
 
@@ -44,4 +44,4 @@ L’objectif est de développer un outil qui pourra être repris à l’extérie
 
 Ce défi a été présenté lors du webinaire « Santé et justice » du lundi 18 mai. Les agents publics qui portent le défi en ont profité pour répondre à de nombreuses questions que se posaient les candidats. 
 
-{{< dailymotion x82e1ah >}}
+{{< dailymotion x82e1ah "Vidéo présentant les réalisations du défi LABEL">}}

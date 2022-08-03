@@ -37,8 +37,8 @@ L’intelligence artificielle peut permettre de détecter de façon quasi-automa
 
 Améliorer l’action publique à l’aide de la data science, l’exemple du défi IA Flash
 
-{{< dailymotion x7o1568 >}}
+{{< dailymotion x7o1568 "Vidéo présentant les réalisations du défi IA Flash">}}
 
 Découvrez l’outil IA Flash
 
-{{< dailymotion x7okqx3 >}}
+{{< dailymotion x7okqx3 "Vidéo présentant l'outil IA Flash">}}

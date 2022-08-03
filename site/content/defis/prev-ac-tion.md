@@ -14,7 +14,7 @@ expertises:
 image: img/11_seacurity_10.svg
 visible: true
 ---
-{{< dailymotion x81fhb9 >}}
+{{< dailymotion x81fhb9 "Vidéo de présentation du défi Prev-AC-Tion" >}}
 
 ## Le contexte
 

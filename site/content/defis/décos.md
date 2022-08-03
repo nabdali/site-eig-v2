@@ -14,7 +14,7 @@ expertises:
 image: img/09_napoleon_10.svg
 visible: true
 ---
-{{< dailymotion x81fhdj >}}
+{{< dailymotion x81fhdj "Vidéo de présentation du défi Décos">}}
 
 ## Le contexte
 

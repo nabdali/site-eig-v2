@@ -16,7 +16,7 @@ image: img/promotion-6/defis/12_État_bas_carbone.svg
 visible: true
 ---
 
-{{< dailymotion x8aklbl >}}
+{{< dailymotion x8aklbl "Vidéo de présentation du défi Etat bas carbone">}}
 
 ## Le défi à relever
 

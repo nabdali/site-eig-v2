@@ -25,4 +25,4 @@ Sami, Ambre et Maxime œuvrent à la médiation de ces données à travers une p
 
 10 mois après : présentation du défi DataESR.
 
-{{< dailymotion x6y04gp >}}
+{{< dailymotion x6y04gp "Vidéo présentant les réalisations du défi DataESR">}}

@@ -24,4 +24,4 @@ Les métadonnées sont des données qui servent à décrire une ressource : date
 
 Interview de Constance sur son défi au sein du Bibliothèque nationale de France.
 
-{{< dailymotion x5qme4i >}}
+{{< dailymotion x5qme4i "Vidéo d'interview de Constance, EIG pour le défi BNF - catalogage">}}

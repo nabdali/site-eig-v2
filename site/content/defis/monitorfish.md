@@ -62,4 +62,4 @@ Rendez-vous sur la page de présentation de l'appel à candidatures pour retro
 
 ## Réalisations
 
-{{< dailymotion x82dypk >}}
+{{< dailymotion x82dypk "Vidéo présentant les réalisations du défi MonitorFish">}}

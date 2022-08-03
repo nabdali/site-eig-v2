@@ -16,7 +16,7 @@ expertises:
 image: img/04_batid_10.svg
 visible: true
 ---
-{{< dailymotion x81fgwh >}}
+{{< dailymotion x81fgwh "Vidéo de présentation du défi BatID">}}
 
 ## Le contexte
 

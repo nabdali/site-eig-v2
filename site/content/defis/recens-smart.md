@@ -16,7 +16,7 @@ image: img/promotion-6/defis/09_Recens_smart.svg
 visible: true
 ---
 
-{{< dailymotion x8akknl >}}
+{{< dailymotion x8akknl "Vidéo de présentation du défi Recens'smart">}}
 
 ## Le défi à relever
 

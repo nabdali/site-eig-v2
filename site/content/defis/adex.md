@@ -51,4 +51,4 @@ Une ouverture grand public est prévue, après consultation avec les autres acte
 
 ## Suite du défi
 
-{{< dailymotion x82dxrq >}}
+{{< dailymotion x82dxrq "Vidéo ADEX">}}

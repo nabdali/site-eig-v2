@@ -31,4 +31,4 @@ Si la proposition paraît simple –une plateforme web- sa mise en œuvre repose
 
 10 mois après : présentation du défi Social Connect
 
-{{< dailymotion x6y006d >}}
+{{< dailymotion x6y006d "Vidéo présentant les réalisations du défi Social Connect">}}

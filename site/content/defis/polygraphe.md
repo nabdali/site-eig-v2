@@ -42,4 +42,4 @@ Le défi a été prolongé de deux mois supplémentaires ce qui permettra le dé
 
 Faire des données un outil de régulation, l’exemple du défi Polygraphe
 
-{{< dailymotion x7o1566 >}}
+{{< dailymotion x7o1566 "Vidéo présentant les réalisations du défi Polygraphe">}}

@@ -26,8 +26,8 @@ Pour cela, Tristram et Francis ont développé un outil cartographique qui perme
 
 10 mois après : retour d’expérience sur l’aventure EIG.
 
-{{< dailymotion x5qme82 >}}
+{{< dailymotion x5qme82 "Vidéo présentant les réalisations du défi cartAV">}}
 
 Découvrez l’outil CartAv
 
-{{< dailymotion x7bmkan >}}
+{{< dailymotion x7bmkan "Vidéo présentant l'outil cartAV">}}

@@ -14,7 +14,7 @@ expertises:
 image: img/eig4-sedaccord.svg
 visible: true
 ---
-{{< dailymotion x82dzay >}}
+{{< dailymotion x82dzay "Vidéo présentant les réalisations du défi SEDAccord">}}
 
 Plusieurs ministères réunis afin de disposer d’un système d’archivage électronique souhaitent développer un outil de traitement des archives numériques à destination de l’ensemble des agents de l’administration. Il doit simplifier l’archivage et la mise en conformité des documents, et ainsi accélérer la transformation numérique de l’Etat.
 

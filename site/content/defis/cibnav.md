@@ -46,4 +46,4 @@ A terme, CibNav sera un outil de ciblage des contrôles des navires et de leurs 
 
 Faire des données un outil de régulation, l’exemple du défi CibNav
 
-{{< dailymotion x7o1566 >}}
+{{< dailymotion x7o1566 "Vidéo présentant les réalisations du défi CibNav">}}
