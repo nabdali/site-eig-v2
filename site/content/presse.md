@@ -12,6 +12,14 @@ agents:
     - Christophe Cuq
     - TEST - Adeline Celier
 ---
+**16 Août 2022**
+
+[Sobriété énergétique : l’exécutif vise l’État mais aussi les collectivités](https://acteurspublics.fr/articles/sobriete-energetique-lexecutif-vise-letat-mais-aussi-les-collectivites)
+
+**12 août 2022**
+
+[L'Etat retient 34 lauréats sur des missions IT d'intérêt général](https://www.lemondeinformatique.fr/actualites/lire-nantes-digital-week-revient-du-15-au-25-septembre-87707.html)
+
 **21 juillet 2022**
 
 [Quand la science des données éclaire la gestion RH à l’hôpital](https://acteurspublics.fr/articles/quand-la-science-des-donnees-eclaire-la-gestion-rh-a-lhopital)
