@@ -1,5 +1,5 @@
 ---
-title: "Accessibilité : non conforme"
+title: "Accessibilité : partiellement conforme"
 layout: page
 url: /accessibilite
 ---
