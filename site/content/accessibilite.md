@@ -17,18 +17,19 @@ L’audit de conformité réalisé par Maroua OURI révèle que :
 
 #### [](<>)Non-conformité
 
-* De nombreuses anomalies vont pénaliser les utilisateurs en situation de handicap, naviguant ou non à l’aide de technologies d’assistance.
-* Les non-conformités les plus bloquantes pour les utilisateurs concernent :
+De nombreuses anomalies vont pénaliser les utilisateurs en situation de handicap, naviguant ou non à l’aide de technologies d’assistance.
 
-  * Vidéo: éléments incrustés nécessitent une audiodescription ;
-  * Des contenus avec une structuration (titres et intertitres, paragraphes) incorrecte, ou insuffisante pour une navigation efficace avec un lecteur d’écran;
-  * Erreurs de validation de code;
-  * L’utilisation des attributs directement sur une balise;
-  * Contenu pas compréhensible quand CSS activé & désactivé;
-  * Une legende pas pertinente associé a un regroupement de formulaire;
-  * Attribut «autocomplete» manquant sur les champs de saisie personnels;
-  * Tabulation pas cohérente;
-  * Pdf pas accessible;
+Les non-conformités les plus bloquantes pour les utilisateurs concernent :
+
+* Vidéo: éléments incrustés nécessitent une audiodescription ;
+* Des contenus avec une structuration (titres et intertitres, paragraphes) incorrecte, ou insuffisante pour une navigation efficace avec un lecteur d’écran;
+* Erreurs de validation de code;
+* L’utilisation des attributs directement sur une balise;
+* Contenu pas compréhensible quand CSS activé & désactivé;
+* Une legende pas pertinente associé a un regroupement de formulaire;
+* Attribut «autocomplete» manquant sur les champs de saisie personnels;
+* Tabulation pas cohérente;
+* Pdf pas accessible;
 
 #### [](<>)Dérogations : Contenu non soumis a l’obligation d’accessibilité :
 
@@ -61,34 +62,34 @@ Les vérifications de restitution de contenus ont été réalisées sur la base 
 
 #### [](<>)Pages du site ayant fait l’objet de la vérification de conformité
 
-1. Page d’accueil :\
-   <https://eig.etalab.gouv.fr/>
-2. Mention légale :\
-   <https://eig.etalab.gouv.fr/cgu/>
-3. Accessibilité:\
-   *https://eig.etalab.gouv.fr/accessibilite/*
-4. Plan du site:\
-   <https://eig.etalab.gouv.fr/plan-du-site/>
-5. Contact:\
-   <https://eig.etalab.gouv.fr/contact/>
-6. On parle de nous:\
-   <https://eig.etalab.gouv.fr/espace-presse/>
-7. Détails personne :\
-   <https://eig.etalab.gouv.fr/personnes/alexandra-leschi/>
-8. Page détails :\
-   *<https://eig.etalab.gouv.fr/defis/capqualif/>*
-9. Participer\
-   <https://eig.etalab.gouv.fr/participer/candidats/>
-10. Aide:\
-    <https://eig.etalab.gouv.fr/participer/candidats/faq/>
-11. Blog:\
-    <https://eig.etalab.gouv.fr/blog/>
-12. Programme:\
-    <https://eig.etalab.gouv.fr/programme/>
-13. Page défi:\
-    <https://eig.etalab.gouv.fr/defis/>
-14. Équipe :\
-    <https://eig.etalab.gouv.fr/equipe/>
+> 1. Page d’accueil :\
+>    <https://eig.etalab.gouv.fr/>
+> 2. Mention légale :\
+>    <https://eig.etalab.gouv.fr/cgu/>
+> 3. Accessibilité:\
+>    *https://eig.etalab.gouv.fr/accessibilite/*
+> 4. Plan du site:\
+>    <https://eig.etalab.gouv.fr/plan-du-site/>
+> 5. Contact:\
+>    <https://eig.etalab.gouv.fr/contact/>
+> 6. On parle de nous:\
+>    <https://eig.etalab.gouv.fr/espace-presse/>
+> 7. Détails personne :\
+>    <https://eig.etalab.gouv.fr/personnes/alexandra-leschi/>
+> 8. Page détails :\
+>    *<https://eig.etalab.gouv.fr/defis/capqualif/>*
+> 9. Participer\
+>    <https://eig.etalab.gouv.fr/participer/candidats/>
+> 10. Aide:\
+>     <https://eig.etalab.gouv.fr/participer/candidats/faq/>
+> 11. Blog:\
+>     <https://eig.etalab.gouv.fr/blog/>
+> 12. Programme:\
+>     <https://eig.etalab.gouv.fr/programme/>
+> 13. Page défi:\
+>     <https://eig.etalab.gouv.fr/defis/>
+> 14. Équipe :\
+>     <https://eig.etalab.gouv.fr/equipe/>
 
 ### [](<>)Retour d’information et contact
 
@@ -102,8 +103,8 @@ Cette procédure est à utiliser dans le cas suivant.
 
 Vous avez signalé au responsable du site internet un défaut d’accessibilité qui vous empêche d’accéder à un contenu ou à un des services du portail et vous n’avez pas obtenu de réponse satisfaisante.
 
-* Écrire un message au Défenseur des droits [<https://formulaire.defenseurdesdroits.fr/>]
-* Contacter le délégué du Défenseur des droits dans votre région [<https://www.defenseurdesdroits.fr/saisir/delegues>]
+* Écrire un message au Défenseur des droits \[<https://formulaire.defenseurdesdroits.fr/>]
+* Contacter le délégué du Défenseur des droits dans votre région \[<https://www.defenseurdesdroits.fr/saisir/delegues>]
 * Envoyer un courrier par la poste (gratuit, ne pas mettre de timbre)\
   Défenseur des droits\
   Libre réponse 71120\
