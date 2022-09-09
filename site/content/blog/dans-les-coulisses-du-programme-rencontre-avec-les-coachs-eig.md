@@ -18,8 +18,6 @@ visible: true
 ---
 Frédérique Doman et Thomas Parisot sont coachs pour le programme [Entrepreneurs d’intérêt général](https://eig.etalab.gouv.fr/) d’Etalab depuis l’été 2021. Respectivement designer et Product Manager, iels nous partage leur expérience au sein d’Etalab et de la Direction Interministérielle du Numérique. De l’accompagnement de la promotion 5 des EIG à l’ingénierie du programme, retour sur douze mois au service de l’innovation publique. 
 
-![Frédérique Doman et Thomas Parisot lors du séminaire de rentrée de la promotion 5](img/thomas-et-fred.jpg "Frédérique Doman et Thomas Parisot lors du séminaire de rentrée de la promotion 5")
-
 ### Vous avez rejoint l'équipe du programme EIG l'an dernier en tant que coachs. Qu'est-ce qui vous avait motivé(e)s à postuler ?
 
 **Frédérique** - Plusieurs dimensions m'ont intéressée dans le programme EIG, dont j'avais déjà entendu parler il y a quelques années. Être coach EIG, c'est rejoindre une direction interministérielle au sein d'un programme prestigieux, donc être au cœur de problématiques très diverses dans les administrations. Les défis d'intérêt général touchent aux politiques publiques et présentent des enjeux en termes de design de service. Le programme a une dimension à la fois de facilitation de l'innovation et de transformation de la fonction publique.
@@ -59,8 +57,6 @@ Pour recruter les talents de la promotion 6, nous avons décidé de repenser les
 Pour sélectionner les projets de la promotion 6, nous avions à cœur de nous placer davantage dans une démarche de co-construction avec les futur(e)s porteurs et porteuses de projet. Nous avons donc proposé et expérimenté un dispositif de pré-incubation, en amont de l'appel à projets, pour aider à cadrer et maturer les projets pressentis dans différentes administrations. La première édition de ce dispositif est prometteuse. Nous allons poursuivre en ce sens.
 
 Enfin, une dernière nouveauté : nous avons organisé le 30 juin dernier un événement de clôture de la promotion à l'auditorium de Ségur. Intitulé “Regard(s) sur l'innovation publique”, cet événement était ouvert à tout l’écosystème. Nous avons eu l'honneur d'accueillir Stanislas Guérini, le ministre de la Transformation et de la Fonction publiques. Il s'agissait de donner la parole aux EIG, au travers du pitch des défis relevés par la promotion 5 et de tables-rondes sur des sujets transverses comme l’apport des juristes à l’innovation. Les échanges se sont poursuivis avec les équipes autour de démonstrations interactives des services numériques conçus et développés par les EIG.
-
-![Stanislas Guérini, le ministre de la Transformation et de la Fonction publiques, s'adresse aux EIG](img/ministre.jpg "Le séminaire Regards sur l'innovation publique en présence de Stanislas Guérini, le ministre de la Transformation et de la Fonction publiques")
 
 **Thomas** - Dans la continuité des évolutions apportées au programme, il nous est apparu opportun de renforcer l'accompagnement des porteurs et porteuses des défis de la promotion 6. Nous avons expérimenté en mai dernier un séminaire avec les responsables des défis EIG 5 et 6 sur les thématiques de l'innovation, de la transformation, du financement et du recrutement. La qualité des échanges et la dynamique collective sont prometteuses. Aussi, nous allons renouveler ces rendez-vous d'émulation interministérielle, autour de problématiques communes de management de l'innovation et de transformation numérique.
 
