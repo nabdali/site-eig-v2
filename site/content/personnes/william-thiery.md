@@ -7,7 +7,7 @@ role: participant
 defis:
   - Recens'smart
 expertise:
-  - Développeur·euse
+  - Développement
 image: img/portrait.jpeg
 linkedin: https://www.linkedin.com/in/william-thiery-67379a199/
 ---

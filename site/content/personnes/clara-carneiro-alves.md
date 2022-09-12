@@ -7,7 +7,7 @@ role: participant
 defis:
   - OptiFlex
 expertise:
-  - Designer
+  - Design
 image: img/clara_eig.jpg
 linkedin: https://www.linkedin.com/in/clara-carneiro-alves-158b7bb5/
 ---

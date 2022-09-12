@@ -7,7 +7,7 @@ role: participant
 defis:
   - Écosphère(s)
 expertise:
-  - Designer
+  - Design
 image: img/mkn_pp.jpeg
 linkedin: https://www.linkedin.com/in/martin-cahen-4b838048
 ---

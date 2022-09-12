@@ -7,7 +7,7 @@ role: participant
 defis:
   - Champollion
 expertise:
-  - Data engineer
+  - Data engineering
 image: img/img_0071.jpg
 linkedin: https://www.linkedin.com/in/leo-guillaume/
 ---

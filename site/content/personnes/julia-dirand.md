@@ -7,7 +7,7 @@ role: participant
 defis:
   - Recens'smart
 expertise:
-  - Designer
+  - Design
 image: img/22_1.png
 linkedin: https://www.linkedin.com/in/juliadirand/
 ---

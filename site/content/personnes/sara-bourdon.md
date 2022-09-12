@@ -7,7 +7,7 @@ role: participant
 defis:
   - Champollion
 expertise:
-  - Développeur·euse
+  - Développement
 image: img/sarabourdon.jpeg
 linkedin: https://www.linkedin.com/in/sara-bourdon/
 ---

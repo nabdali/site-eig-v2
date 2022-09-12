@@ -7,7 +7,7 @@ role: participant
 defis:
   - Géocommuns
 expertise:
-  - Développeur·euse
+  - Développement
 image: img/manty_2022-04-3151_-_carre.jpeg
 linkedin: https://www.linkedin.com/in/maxime-allain-497a13b1/
 ---

@@ -7,7 +7,7 @@ role: participant
 defis:
   - État bas carbone
 expertise:
-  - Data scientist
+  - Data science
 image: img/img_2068_r.jpg
 linkedin: https://www.linkedin.com/in/charlottesuaud/
 ---

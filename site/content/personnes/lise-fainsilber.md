@@ -7,7 +7,7 @@ role: participant
 defis:
   - SOS Ponts
 expertise:
-  - Designer
+  - Design
 image: img/lise-fainsilber_0.jpg
 linkedin: https://www.linkedin.com/in/lise-fainsilber-01b5202a/
 ---

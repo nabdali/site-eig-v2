@@ -7,7 +7,7 @@ role: participant
 defis:
   - SIRANo
 expertise:
-  - Développeur·euse
+  - Développement
 image: img/img_0011_-_copie.jpg
 linkedin: https://www.linkedin.com/in/abdelali-boulajine
 ---

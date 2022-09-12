@@ -7,7 +7,7 @@ role: participant
 defis:
   - Écosphère(s)
 expertise:
-  - Data scientist
+  - Data science
 image: img/photo_vincent_aitammar.jpg
 linkedin: https://www.linkedin.com/in/vincent-ait-ammar/
 ---
