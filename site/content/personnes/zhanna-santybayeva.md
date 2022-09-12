@@ -7,7 +7,7 @@ role: participant
 defis:
   - SIRANo
 expertise:
-  - Data engineer
+  - Data engineering
 image: img/santybayevazhanna.jpg
 linkedin: https://www.linkedin.com/in/z-s-675977104/
 ---

@@ -7,7 +7,7 @@ role: participant
 defis:
   - artificIA
 expertise:
-  - Data scientist
+  - Data science
 image: img/img-20220616-wa0045_3b_2.jpg
 linkedin: https://www.linkedin.com/in/eva-bookjans/
 ---

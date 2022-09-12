@@ -7,7 +7,7 @@ role: participant
 defis:
   - Champollion
 expertise:
-  - Data scientist
+  - Data science
 image: img/cosson_img.jpg
 linkedin: https://www.linkedin.com/in/margot-cosson-408455120
 ---

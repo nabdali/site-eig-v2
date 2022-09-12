@@ -7,7 +7,7 @@ role: participant
 defis:
   - artificIA
 expertise:
-  - Designer
+  - Design
 image: img/marie-chiriacopol-photo.jpg
 linkedin: https://www.linkedin.com/in/marie-lorraine-chiriacopol/
 ---

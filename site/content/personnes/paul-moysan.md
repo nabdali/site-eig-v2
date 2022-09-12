@@ -7,7 +7,7 @@ role: participant
 defis:
   - Nubonyxia
 expertise:
-  - Data engineer
+  - Data engineering
 image: img/eig-profile-picture.jpg
 linkedin: https://www.linkedin.com/in/paul-moysan/
 ---

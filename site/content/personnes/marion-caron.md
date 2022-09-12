@@ -7,7 +7,7 @@ role: participant
 defis:
   - Estim'action
 expertise:
-  - Designer
+  - Design
 image: img/marion_caron.jpeg
 linkedin: https://www.linkedin.com/in/marioncaron/
 ---

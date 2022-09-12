@@ -7,7 +7,7 @@ role: participant
 defis:
   - Pilote Intelligence
 expertise:
-  - Développeur·euse
+  - Développement
 image: img/photo_portrait_gr.jpg
 linkedin: https://www.linkedin.com/in/gregoria-rubio/
 ---

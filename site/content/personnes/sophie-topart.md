@@ -7,7 +7,7 @@ role: participant
 defis:
   - OptiFlex
 expertise:
-  - Développeur·euse
+  - Développement
 image: img/photoid_10.jpg
 linkedin: https://www.linkedin.com/in/sophie-topart-59a0b893/
 ---

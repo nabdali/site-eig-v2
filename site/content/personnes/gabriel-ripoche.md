@@ -7,7 +7,7 @@ role: participant
 defis:
   - Écosphère(s)
 expertise:
-  - Développeur·euse
+  - Développement
 image: img/eig.jpg
 linkedin: www.linkedin.com/in/gripoche
 ---

@@ -7,7 +7,7 @@ role: participant
 defis:
   - TwinCity
 expertise:
-  - Développeur·euse
+  - Développement
 image: img/photo_182.jpg
 linkedin: https://www.linkedin.com/in/jehanne-dussert/
 ---

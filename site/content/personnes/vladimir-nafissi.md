@@ -7,7 +7,7 @@ role: participant
 defis:
   - SOS Ponts
 expertise:
-  - Développeur·euse
+  - Développement
 image: img/vnafissi.jpeg
 ---
 

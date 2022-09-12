@@ -7,7 +7,7 @@ role: participant
 defis:
   - OptiFlex
 expertise:
-  - Data engineer
+  - Data engineering
 image: img/small_version1.png
 ---
 

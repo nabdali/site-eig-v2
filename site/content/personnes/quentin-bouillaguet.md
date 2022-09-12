@@ -7,7 +7,7 @@ role: participant
 defis:
   - Géocommuns
 expertise:
-  - Développeur·euse
+  - Développement
 image: img/eig_bouillaguet.png
 linkedin: https://fr.linkedin.com/in/bouillaguet
 ---

@@ -7,7 +7,7 @@ role: participant
 defis:
   - État bas carbone
 expertise:
-  - Développeur·euse
+  - Développement
 image: img/kadfoto.jpg
 linkedin: https://www.linkedin.com/in/abdelkader-kersani/
 ---

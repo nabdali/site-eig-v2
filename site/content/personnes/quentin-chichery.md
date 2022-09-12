@@ -7,7 +7,7 @@ role: participant
 defis:
   - Nubonyxia
 expertise:
-  - Data scientist
+  - Data science
 image: img/photo_cv_quentin.jpg
 linkedin: https://www.linkedin.com/in/quentin-chichery-84b0861a4/
 ---

@@ -7,7 +7,7 @@ role: participant
 defis:
   - Géocommuns
 expertise:
-  - Designer
+  - Design
 image: img/2022-_eig_-_photo.jpg
 linkedin: https://www.linkedin.com/in/line-gallen-971103153/
 ---

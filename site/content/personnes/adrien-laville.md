@@ -7,7 +7,7 @@ role: participant
 defis:
   - Pilote Intelligence
 expertise:
-  - Designer
+  - Design
 image: img/screenshot_2022-08-13_at_10.27.48.png
 linkedin: https://fr.linkedin.com/in/adrien-laville-0667b453
 ---
