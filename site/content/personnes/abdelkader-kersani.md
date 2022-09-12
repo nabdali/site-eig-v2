@@ -1,6 +1,6 @@
 ---
 title: Abdelkader Kersani
-job: Développeur·euse
+job: Développeur(euse)
 promos:
   - Promotion 6
 role: participant
