@@ -1,6 +1,6 @@
 ---
 title: Estim'Action
-description: Aider les collectivités à réduire les nuissances routières, sources
+description: Aider les collectivités à réduire les nuisances routières, sources
   de pollution atmosphérique et sonore
 who: Cerema
 place: ""
@@ -38,6 +38,6 @@ Cela pourrait se traduire par un service numérique qui permettrait de visualise
 Cette exploration sera appuyée par l’expertise du Cerema via les données et les outils de simulation qu’il possède. Une expérimentation est envisagée sur le territoire de la Nouvelle-Aquitaine où existe un observatoire régional des trafics routiers dans lequel le Cerema est très impliqué.
 
 #### Les ambitions du projet{.subtitle}
-### Aider les collectivités à réduire les nuissances routières, sources de pollution atmosphérique et sonore
+### Aider les collectivités à réduire les nuisances routières, sources de pollution atmosphérique et sonore
 Ce service permettra aux collectivités d’assurer le respect des seuils réglementaires et de participer à une meilleure qualité de vie de la population. Cette amélioration permettra donc de réduire les émissions et les pathologies chroniques liées à la pollution de l’air et au bruit. Ces actions permettront également de rendre ainsi certains territoires plus attractifs par la qualité de leur environnement.
 La mesure d’impact se basera sur plusieurs indicateurs, notamment le nombre de collectivités prêtes à ouvrir leurs données, le taux d’utilisation, mais aussi le nombre d’actions concrètes engagées suite à l’utilisation du service.
