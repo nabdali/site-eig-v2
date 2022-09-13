@@ -8,7 +8,7 @@ defis:
   - Écosphère(s)
 expertise:
   - Data science
-image: img/photo_vincent_aitammar.jpg
+image: img/promotion-6-photos/photo_vincent_aitammar.jpg
 linkedin: https://www.linkedin.com/in/vincent-ait-ammar/
 ---
 

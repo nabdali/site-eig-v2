@@ -8,7 +8,7 @@ defis:
   - Pilote Intelligence
 expertise:
   - Développement
-image: img/photo_portrait_gr.jpg
+image: img/promotion-6-photos/photo_portrait_gr.jpg
 linkedin: https://www.linkedin.com/in/gregoria-rubio/
 ---
 

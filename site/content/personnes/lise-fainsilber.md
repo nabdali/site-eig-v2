@@ -8,7 +8,7 @@ defis:
   - SOS Ponts
 expertise:
   - Design
-image: img/lise-fainsilber_0.jpg
+image: img/promotion-6-photos/lise-fainsilber_0.jpg
 linkedin: https://www.linkedin.com/in/lise-fainsilber-01b5202a/
 ---
 

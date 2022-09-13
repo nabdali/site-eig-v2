@@ -8,7 +8,7 @@ defis:
   - Estim'action
 expertise:
   - Data engineering
-image: img/whatsapp_image_2022-08-01_at_23.55.58.jpeg
+image: img/promotion-6-photos/whatsapp_image_2022-08-01_at_23.55.58.jpeg
 linkedin: https://www.linkedin.com/in/jeremie-letonnelier/
 ---
 

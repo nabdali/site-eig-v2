@@ -8,7 +8,7 @@ defis:
   - Estim'action
 expertise:
   - Design
-image: img/marion_caron.jpeg
+image: img/promotion-6-photos/marion_caron.jpeg
 linkedin: https://www.linkedin.com/in/marioncaron/
 ---
 

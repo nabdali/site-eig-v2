@@ -8,7 +8,7 @@ defis:
   - Écosphère(s)
 expertise:
   - Développement
-image: img/eig.jpg
+image: img/promotion-6-photos/eig.jpg
 linkedin: www.linkedin.com/in/gripoche
 ---
 

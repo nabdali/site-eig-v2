@@ -8,7 +8,7 @@ defis:
   - État bas carbone
 expertise:
   - Data science
-image: img/img_2068_r.jpg
+image: img/promotion-6-photos/img_2068_r.jpg
 linkedin: https://www.linkedin.com/in/charlottesuaud/
 ---
 

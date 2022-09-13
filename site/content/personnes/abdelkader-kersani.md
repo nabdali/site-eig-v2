@@ -8,7 +8,7 @@ defis:
   - État bas carbone
 expertise:
   - Développement
-image: img/kadfoto.jpg
+image: img/promotion-6-photos/kadfoto.jpg
 linkedin: https://www.linkedin.com/in/abdelkader-kersani/
 ---
 

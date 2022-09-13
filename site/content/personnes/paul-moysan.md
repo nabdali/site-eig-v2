@@ -8,7 +8,7 @@ defis:
   - Nubonyxia
 expertise:
   - Data engineering
-image: img/eig-profile-picture.jpg
+image: img/promotion-6-photos/eig-profile-picture.jpg
 linkedin: https://www.linkedin.com/in/paul-moysan/
 ---
 

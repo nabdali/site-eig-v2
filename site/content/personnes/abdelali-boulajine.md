@@ -8,7 +8,7 @@ defis:
   - SIRANo
 expertise:
   - Développement
-image: img/img_0011_-_copie.jpg
+image: img/promotion-6-photos/img_0011_-_copie.jpg
 linkedin: https://www.linkedin.com/in/abdelali-boulajine
 ---
 

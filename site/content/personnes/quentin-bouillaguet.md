@@ -8,7 +8,7 @@ defis:
   - Géocommuns
 expertise:
   - Développement
-image: img/eig_bouillaguet.png
+image: img/promotion-6-photos/eig_bouillaguet.png
 linkedin: https://fr.linkedin.com/in/bouillaguet
 ---
 

@@ -8,7 +8,7 @@ defis:
   - Champollion
 expertise:
   - Data science
-image: img/cosson_img.jpg
+image: img/promotion-6-photos/cosson_img.jpg
 linkedin: https://www.linkedin.com/in/margot-cosson-408455120
 ---
 

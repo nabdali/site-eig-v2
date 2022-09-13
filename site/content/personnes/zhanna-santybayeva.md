@@ -8,7 +8,7 @@ defis:
   - SIRANo
 expertise:
   - Data engineering
-image: img/santybayevazhanna.jpg
+image: img/promotion-6-photos/santybayevazhanna.jpg
 linkedin: https://www.linkedin.com/in/z-s-675977104/
 ---
 

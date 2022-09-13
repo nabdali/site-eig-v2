@@ -8,7 +8,7 @@ defis:
   - Écosphère(s)
 expertise:
   - Design
-image: img/mkn_pp.jpeg
+image: img/promotion-6-photos/mkn_pp.jpeg
 linkedin: https://www.linkedin.com/in/martin-cahen-4b838048
 ---
 

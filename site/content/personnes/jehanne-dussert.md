@@ -8,7 +8,7 @@ defis:
   - TwinCity
 expertise:
   - Développement
-image: img/photo_182.jpg
+image: img/promotion-6-photos/photo_182.jpg
 linkedin: https://www.linkedin.com/in/jehanne-dussert/
 ---
 

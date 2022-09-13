@@ -8,7 +8,7 @@ defis:
   - artificIA
 expertise:
   - Design
-image: img/marie-chiriacopol-photo.jpg
+image: img/promotion-6-photos/marie-chiriacopol-photo.jpg
 linkedin: https://www.linkedin.com/in/marie-lorraine-chiriacopol/
 ---
 

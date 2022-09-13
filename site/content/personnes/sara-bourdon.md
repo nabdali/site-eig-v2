@@ -8,7 +8,7 @@ defis:
   - Champollion
 expertise:
   - Développement
-image: img/sarabourdon.jpeg
+image: img/promotion-6-photos/sarabourdon.jpeg
 linkedin: https://www.linkedin.com/in/sara-bourdon/
 ---
 

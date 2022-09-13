@@ -8,7 +8,7 @@ defis:
   - Champollion
 expertise:
   - Data engineering
-image: img/img_0071.jpg
+image: img/promotion-6-photos/img_0071.jpg
 linkedin: https://www.linkedin.com/in/leo-guillaume/
 ---
 

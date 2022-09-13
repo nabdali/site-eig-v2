@@ -8,7 +8,7 @@ defis:
   - Recens'smart
 expertise:
   - Développement
-image: img/portrait.jpeg
+image: img/promotion-6-photos/portrait.jpeg
 linkedin: https://www.linkedin.com/in/william-thiery-67379a199/
 ---
 

@@ -8,7 +8,7 @@ defis:
   - OptiFlex
 expertise:
   - Design
-image: img/clara_eig.jpg
+image: img/promotion-6-photos/clara_eig.jpg
 linkedin: https://www.linkedin.com/in/clara-carneiro-alves-158b7bb5/
 ---
 
