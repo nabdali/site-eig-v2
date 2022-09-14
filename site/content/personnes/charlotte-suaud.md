@@ -5,7 +5,7 @@ promos:
   - Promotion 6
 role: participant
 defis:
-  - État bas carbone
+  - Etat bas carbone
 expertise:
   - Data science
 image: img/promotion-6-photos/img_2068_r.jpg

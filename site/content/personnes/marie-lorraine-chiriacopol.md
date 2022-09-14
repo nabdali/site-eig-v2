@@ -5,7 +5,7 @@ promos:
   - Promotion 6
 role: participant
 defis:
-  - artificIA
+  - ArtificIA
 expertise:
   - Design
 image: img/promotion-6-photos/marie-chiriacopol-photo.jpg

@@ -5,7 +5,7 @@ promos:
   - Promotion 6
 role: participant
 defis:
-  - État bas carbone
+  - Etat bas carbone
 expertise:
   - Développement
 image: img/promotion-6-photos/kadfoto.jpg

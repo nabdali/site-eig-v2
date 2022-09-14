@@ -5,7 +5,7 @@ promos:
   - Promotion 6
 role: participant
 defis:
-  - Estim'action
+  - Estim'Action
 expertise:
   - Design
 image: img/promotion-6-photos/marion_caron.jpeg

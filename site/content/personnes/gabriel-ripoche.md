@@ -5,7 +5,7 @@ promos:
   - Promotion 6
 role: participant
 defis:
-  - Écosphère(s)
+  - Ecosphère(s)
 expertise:
   - Développement
 image: img/promotion-6-photos/eig.jpg

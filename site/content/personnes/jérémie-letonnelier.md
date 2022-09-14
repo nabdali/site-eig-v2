@@ -5,7 +5,7 @@ promos:
   - Promotion 6
 role: participant
 defis:
-  - Estim'action
+  - Estim'Action
 expertise:
   - Data engineering
 image: img/promotion-6-photos/whatsapp_image_2022-08-01_at_23.55.58.jpeg
