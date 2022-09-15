@@ -6,7 +6,7 @@ promos:
 role: participant
 defis:
   - Recens'smart
-expertise:
+expertises:
   - Design
 image: img/promotion-6-photos/22_1.png
 linkedin: https://www.linkedin.com/in/juliadirand/

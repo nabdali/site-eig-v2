@@ -6,7 +6,7 @@ promos:
 role: participant
 defis:
   - Champollion
-expertise:
+expertises:
   - Développement
 image: img/promotion-6-photos/sarabourdon.jpeg
 linkedin: https://www.linkedin.com/in/sara-bourdon/

@@ -6,7 +6,7 @@ promos:
 role: participant
 defis:
   - ArtificIA
-expertise:
+expertises:
   - Design
 image: img/promotion-6-photos/marie-chiriacopol-photo.jpg
 linkedin: https://www.linkedin.com/in/marie-lorraine-chiriacopol/

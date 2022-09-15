@@ -6,7 +6,7 @@ promos:
 role: participant
 defis:
   - OptiFlex
-expertise:
+expertises:
   - Développement
 image: img/promotion-6-photos/photoid_10.jpg
 linkedin: https://www.linkedin.com/in/sophie-topart-59a0b893/

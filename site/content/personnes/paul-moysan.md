@@ -6,7 +6,7 @@ promos:
 role: participant
 defis:
   - Nubonyxia
-expertise:
+expertises:
   - Data engineering
 image: img/promotion-6-photos/eig-profile-picture.jpg
 linkedin: https://www.linkedin.com/in/paul-moysan/

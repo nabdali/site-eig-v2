@@ -6,7 +6,7 @@ promos:
 role: participant
 defis:
   - Géocommuns
-expertise:
+expertises:
   - Développement
 image: img/promotion-6-photos/eig_bouillaguet.png
 linkedin: https://fr.linkedin.com/in/bouillaguet

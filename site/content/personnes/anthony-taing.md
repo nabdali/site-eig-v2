@@ -6,7 +6,7 @@ promos:
 role: participant
 defis:
   - OptiFlex
-expertise:
+expertises:
   - Data engineering
 image: img/promotion-6-photos/small_version1.png
 ---

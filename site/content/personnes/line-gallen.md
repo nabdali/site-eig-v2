@@ -6,7 +6,7 @@ promos:
 role: participant
 defis:
   - Géocommuns
-expertise:
+expertises:
   - Design
 image: img/promotion-6-photos/2022-_eig_-_photo.jpg
 linkedin: https://www.linkedin.com/in/line-gallen-971103153/

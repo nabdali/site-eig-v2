@@ -6,7 +6,7 @@ promos:
 role: participant
 defis:
   - SIRANo
-expertise:
+expertises:
   - Développement
 image: img/promotion-6-photos/img_0011_-_copie.jpg
 linkedin: https://www.linkedin.com/in/abdelali-boulajine

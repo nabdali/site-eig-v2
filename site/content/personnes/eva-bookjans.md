@@ -6,7 +6,7 @@ promos:
 role: participant
 defis:
   - ArtificIA
-expertise:
+expertises:
   - Data science
 image: img/promotion-6-photos/img-20220616-wa0045_3b_2.jpg
 linkedin: https://www.linkedin.com/in/eva-bookjans/

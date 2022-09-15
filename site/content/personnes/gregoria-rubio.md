@@ -6,7 +6,7 @@ promos:
 role: participant
 defis:
   - Pilote Intelligence
-expertise:
+expertises:
   - Développement
 image: img/promotion-6-photos/photo_portrait_gr.jpg
 linkedin: https://www.linkedin.com/in/gregoria-rubio/

@@ -6,7 +6,7 @@ promos:
 role: participant
 defis:
   - SOS Ponts
-expertise:
+expertises:
   - Développement
 image: img/promotion-6-photos/vnafissi.jpeg
 ---

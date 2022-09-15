@@ -6,7 +6,7 @@ promos:
 role: participant
 defis:
   - Etat bas carbone
-expertise:
+expertises:
   - Développement
 image: img/promotion-6-photos/kadfoto.jpg
 linkedin: https://www.linkedin.com/in/abdelkader-kersani/

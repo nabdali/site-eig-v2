@@ -6,7 +6,7 @@ promos:
 role: participant
 defis:
   - Ecosphère(s)
-expertise:
+expertises:
   - Data science
 image: img/promotion-6-photos/photo_vincent_aitammar.jpg
 linkedin: https://www.linkedin.com/in/vincent-ait-ammar/

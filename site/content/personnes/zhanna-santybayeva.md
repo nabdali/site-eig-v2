@@ -6,7 +6,7 @@ promos:
 role: participant
 defis:
   - SIRANo
-expertise:
+expertises:
   - Data engineering
 image: img/promotion-6-photos/santybayevazhanna.jpg
 linkedin: https://www.linkedin.com/in/z-s-675977104/

@@ -6,7 +6,7 @@ promos:
 role: participant
 defis:
   - Champollion
-expertise:
+expertises:
   - Data engineering
 image: img/promotion-6-photos/img_0071.jpg
 linkedin: https://www.linkedin.com/in/leo-guillaume/

@@ -6,7 +6,7 @@ promos:
 role: participant
 defis:
   - Ecosphère(s)
-expertise:
+expertises:
   - Développement
 image: img/promotion-6-photos/eig.jpg
 linkedin: www.linkedin.com/in/gripoche

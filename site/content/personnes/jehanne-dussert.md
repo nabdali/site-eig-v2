@@ -6,7 +6,7 @@ promos:
 role: participant
 defis:
   - TwinCity
-expertise:
+expertises:
   - Développement
 image: img/promotion-6-photos/photo_182.jpg
 linkedin: https://www.linkedin.com/in/jehanne-dussert/
