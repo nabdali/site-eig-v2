@@ -1,6 +1,6 @@
 ---
 title: Sophie Topart
-job: Développeur(euse)
+job: Développeuse
 promos:
   - Promotion 6
 role: participant

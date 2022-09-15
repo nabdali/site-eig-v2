@@ -1,6 +1,6 @@
 ---
 title: Sara Bourdon
-job: Développeur(euse)
+job: Développeuse
 promos:
   - Promotion 6
 role: participant

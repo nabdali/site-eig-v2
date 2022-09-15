@@ -1,6 +1,6 @@
 ---
 title: Gabriel Ripoche
-job: Développeur(euse)
+job: Développeur
 promos:
   - Promotion 6
 role: participant

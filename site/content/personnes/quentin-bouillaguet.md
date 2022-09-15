@@ -1,6 +1,6 @@
 ---
 title: Quentin Bouillaguet
-job: Développeur(euse)
+job: Développeur
 promos:
   - Promotion 6
 role: participant

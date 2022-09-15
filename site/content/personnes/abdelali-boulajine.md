@@ -1,6 +1,6 @@
 ---
 title: Abdelali Boulajine
-job: Développeur(euse)
+job: Développeur
 promos:
   - Promotion 6
 role: participant

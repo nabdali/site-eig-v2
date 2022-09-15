@@ -1,6 +1,6 @@
 ---
 title: Vladimir Nafissi
-job: Développeur(euse)
+job: Développeur
 promos:
   - Promotion 6
 role: participant
