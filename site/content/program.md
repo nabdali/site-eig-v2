@@ -8,85 +8,106 @@ numbers:
     title: Défis d’intérêt général
     btnTitle: Parcourir les défis
     btnUrl: /defis
-  - num: 80+
+  - num: "80"
     title: administrations impactées
     btnTitle: Profils des agents publics
     btnUrl: /agents
 steps:
   title: |
-    Les 3 phases du programme
+    Les 4 phases du programme
   list:
-    - icon: /img/phase1.png
+    - icon: img/1_valider_hypothèse.png
       step: Phase 1
-      duration: 5 mois
-      title: Concevoir
-      dates: Mi-septembre à février
-      desc: Explorer, mener des recherches utilisateur, puis lancer rapidement son
-        prototype (cibler, tester, itérer), modéliser sa performance (créer des
-        indicateurs, ouvrir ou non ses données), tester et recevoir des retours
-        (revue code et design), faciliter l'appropriation (gérer les
-        résistances, fabriquer un argumentaire)...
-    - icon: /img/phase2.png
+      duration: 2 mois
+      title: Valider l'hypothèse
+      dates: Comprendre, prototyper, aligner
+      desc: Avant même d’initier un projet, nous avons forcément à l'esprit une idée
+        précise de ce que le service numérique pourrait être *in fine*. Pour
+        autant, l'hypothèse privilégiée initialement n'est qu'une éventualité
+        d'exploration des possibles. Comment s'assurer que nous ne négligeons
+        pas une partie du problème ? Comment éviter de nous projeter trop
+        rapidement dans une solution fantasmée ? Comment construire ensemble une
+        stratégie à la fois ambitieuse et raisonnée ? Pour éprouver nos
+        certitudes, la confrontation avec le réel et la compréhension des
+        problèmes profonds sont essentielles à la viabilité de la démarche
+        entrepreneuriale.
+    - icon: img/2_prouver_le_concept.png
       step: Phase 2
       duration: 3 mois
-      title: Consolider
-      dates: Mars à mai
-      desc: Poursuivre l'ouverture des codes et de la donnée, mener des tests
-        utilisateurs et l'évaluation UX des produits, assurer l'accessibilité et
-        l'ergonomie des interfaces, documenter les défis, mobiliser des
-        ressources, trouver des alliés dans l'administration et dans
-        l'écosystème.
-    - dates: Juin à mi-juillet
-      desc: Assurer la continuité des défis, tant aux niveaux stratégiques,
-        techniques, opérationnels et RH (transfert de compétences, aspects
-        contractuels et budgétaires), consolider les indicateurs de performance,
-        développer les opportunités d'ouverture (briques techniques, codes,
-        données, design...), de mutualisation et de réplication des outils et
-        des données.
-      icon: /img/phase3.png
+      title: Prouver le concept
+      dates: Rechercher, tester, valider
+      desc: "Une fois l'hypothèse initiale prototypée et validée, il s'agit de prouver
+        le concept retenu, de démontrer la faisabilité de l'innovation. Cette
+        phase requiert une certaine frugalité : on veillera à circonscrire un
+        périmètre restreint où telle innovation peut commencer à opérer, même si
+        la profondeur du champ d'application est bien supérieure. En management
+        de l'innovation, la preuve du concept présente également l'intérêt
+        d'inspecter et d'évaluer l'hypothèse initiale avec pragmatisme, afin
+        d'être en mesure de pivoter si nécessaire et d’imaginer d’autres
+        possibles pour répondre autrement aux mêmes enjeux."
+    - dates: Incrémenter, impliquer, mesurer
+      desc: >
+        L'hypothèse a été validée, le concept prouvé. Beaucoup d'autres
+        fonctionnalités pourraient être développées, mais elles importent moins
+        que de prouver la valeur d'usage. Avant même d'étoffer le périmètre
+        d'une solution, il est capital d'impliquer les usagers, d'expérimenter
+        le coeur de l'innovation auprès d'un public restreint, dans les
+        conditions les plus proches de la réalité. L'expérimentation d'un pilote
+        est décisive non seulement pour capter des retours et évaluer l’impact,
+        mais aussi pour commencer à embarquer le public cible, dans une logique
+        progressive d'adoption et de prescription.
+      icon: img/3_prouver_la_valeur.png
       step: Phase 3
+      duration: 3 mois
+      title: Prouver la valeur
+    - step: Phase 4
       duration: 2 mois
-      title: Amplifier
+      title: Amplifier l’impact
+      dates: Déployer, communiquer, accroître
+      desc: À quelques encablures de la fin du défi EIG, la tentation est forte
+        d'accélérer dans l'optique de délivrer le maximum de fonctionnalités. Or
+        la poursuite du projet au-delà de cette temporalité est en définitive
+        plus essentielle. Un défi EIG relevé, c’est un projet qui apporte la
+        preuve du concept et démontre sa valeur pendant les 10 mois du
+        programme, mais c’est aussi un projet qui prend encore plus d’ampleur
+        au-delà, avec des enjeux de pérennisation à la fois du service, de la
+        culture et des équipes. Cette dernière phase consiste à valoriser
+        l’innovation, dessiner de nouvelles perspectives, saisir les
+        opportunités.
+      icon: img/4_amplifier.png
 layout: program
 url: /programme
 image: img/bootcamp9_auto_x2-1-.jpg
 title: Programme
 desc: >-
-  Entrepreneurs d'intérêt général permet à des talents du numérique ou **«** EIG
-  **»** d'intégrer des administrations, pour relever en 10 mois des défis qui
-  améliorent le service public. 
+  Le programme Entrepreneurs d’intérêt général permet à des talents du numérique
+  d'intégrer des administrations, pour relever en 10 mois des défis qui
+  améliorent le service public.
 
 
-  En initiant des démarches d'exploration et d'émergence, l'ambition du programme est de développer une administration plus entrepreneuriale, tant dans ses méthodes que sa culture de travail. Ses valeurs cardinales sont : 
+  En initiant des démarches d’exploration et d’émergence, l’ambition du programme est de développer une administration plus entrepreneuriale, tant dans ses méthodes que sa culture de travail.
 
 
-  * l’esprit entrepreneurial 
-
-  * l’open-data et l’open-source 
-
-  * le numérique éco-responsable 
-
-  * le numérique accessible
+  Les EIG adaptent leur trajectoire au contexte et aux enjeux : le chemin d'innovation suit une ligne de crête entre la stratégie et le terrain, en visant une incrémentation pérenne de la valeur. 
 
 
+  Ses valeurs cardinales sont :
 
 
-  Depuis 2016, les EIG et agents publics qui ont rejoint le programme ont eu des effets déterminants pour transformer les administrations et répondre aux attentes des citoyens.
+  * Un service public inclusif et accessible : égalité et diversité, accessibilité numérique
+
+  * Un service public ouvert et intelligible : ouverture des données, logiciel libre, explicabilité des algorithmes
+
+  * Un service public moderne et collaboratif : entrepreneuriat, co-construction
 how:
   desc: >-
-    ## Comment ça marche
+    ## Comment
 
 
-    Le programme fonctionne par promotions : une fois les défis des administrations sélectionnés par appel à projets, un appel à candidatures est organisé pour recruter les candidats - les EIG - qui rejoindront l’administration pendant 10 mois, en tant qu’agents contractuels. 
+    L'innovation est un chemin pavé d'incertitudes et d’opportunités. Le programme EIG vous propose un cadre d’accompagnement en 4 phases pour faciliter la relève des défis. Avec le concours des expert(e)s de la DINUM, les coachs EIG fournissent un appui méthodologique et une expertise entrepreneuriale tout au long des 10 mois.
 
 
-    Au cours de leur immersion dans l’administration, les EIG, qui sont en-dehors de la hiérarchie habituelle, sont amenés à proposer des modifications au défi envisagé initialement par les administrations d’accueil, et élaborent une feuille de route sur laquelle ils et elles itèrent avec les agents publics.
-
-
-    Pour les accompagner dans la réussite de leurs défis, le programme offre tout au long des 10 mois un appui méthodologique et une expertise entrepreneuriale adaptée au contexte de l'administration. 
-
-
-    ![](/img/steps3.svg)
+    ![]()
 then:
   desc: >-
     ## Et après ?
