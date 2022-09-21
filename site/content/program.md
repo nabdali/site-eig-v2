@@ -85,20 +85,17 @@ desc: >-
   améliorent le service public.
 
 
-  En initiant des démarches d’exploration et d’émergence, l’ambition du programme est de développer une administration plus entrepreneuriale, tant dans ses méthodes que sa culture de travail.
-
-
-  Les EIG adaptent leur trajectoire au contexte et aux enjeux : le chemin d'innovation suit une ligne de crête entre la stratégie et le terrain, en visant une incrémentation pérenne de la valeur. 
+  En initiant des démarches d’exploration et d’émergence, l’ambition du programme est de développer une administration plus entrepreneuriale, tant dans ses méthodes que sa culture de travail. Les EIG adaptent leur trajectoire au contexte et aux enjeux : le chemin d'innovation suit une ligne de crête entre la stratégie et le terrain, en visant une incrémentation pérenne de la valeur. 
 
 
   Ses valeurs cardinales sont :
 
 
-  * Un service public inclusif et accessible : égalité et diversité, accessibilité numérique
+  > * Un service public inclusif et accessible : égalité et diversité, accessibilité numérique
 
-  * Un service public ouvert et intelligible : ouverture des données, logiciel libre, explicabilité des algorithmes
+  > * Un service public ouvert et intelligible : ouverture des données, logiciel libre, explicabilité des algorithmes
 
-  * Un service public moderne et collaboratif : entrepreneuriat, co-construction
+  > * Un service public moderne et collaboratif : entrepreneuriat, co-construction
 how:
   desc: >-
     ## Comment
