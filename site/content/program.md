@@ -1,14 +1,14 @@
 ---
 numbers:
-  - num: "172"
+  - num: "206"
     title: Entrepreneurs d’intérêt général
     btnTitle: Découvrir les talents
     btnUrl: /talents
-  - num: "87"
+  - num: "101"
     title: Défis d’intérêt général
     btnTitle: Parcourir les défis
     btnUrl: /defis
-  - num: "80"
+  - num: 80+
     title: administrations impactées
     btnTitle: Profils des agents publics
     btnUrl: /agents
@@ -50,7 +50,7 @@ steps:
 layout: program
 url: /programme
 image: img/bootcamp9_auto_x2-1-.jpg
-title: "Programme"
+title: Programme
 desc: >-
   Entrepreneurs d'intérêt général permet à des talents du numérique ou **«** EIG
   **»** d'intégrer des administrations, pour relever en 10 mois des défis qui
