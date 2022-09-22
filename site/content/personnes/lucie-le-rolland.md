@@ -2,6 +2,8 @@
 title: Lucie Le Rolland
 job: Coach Data
 desc: ""
+promos:
+  - Promotion 6
 role: agent-programme
 defis:
   - Magellan
