@@ -1,6 +1,8 @@
 ---
 title: Antoine San Segundo
 job: Coach Designer
+promos:
+  - Promotion 6
 role: agent-programme
 defis:
   - Magellan
