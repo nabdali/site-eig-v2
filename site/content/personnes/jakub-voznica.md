@@ -1,6 +1,8 @@
 ---
 title: "Jakub Voznica "
 job: Coach Data
+promos:
+  - Promotion 6
 role: agent-programme
 defis:
   - Magellan
