@@ -12,6 +12,10 @@ agents:
     - Christophe Cuq
     - TEST - Adeline Celier
 ---
+**21 Septembre 2022**
+
+[L’état de santé des ponts suivi de près par la “blockchain”](https://acteurspublics.fr/articles/letat-de-sante-des-ponts-suivi-de-pres-par-la-blockchain)
+
 **16 Août 2022**
 
 [Sobriété énergétique : l’exécutif vise l’État mais aussi les collectivités](https://acteurspublics.fr/articles/sobriete-energetique-lexecutif-vise-letat-mais-aussi-les-collectivites)
