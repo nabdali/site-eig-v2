@@ -16,7 +16,7 @@ steps:
   title: |
     Les 4 phases du programme
   list:
-    - icon: img/1_valider_hypothèse.png
+    - icon: img/1_valider_hypothese.svg
       step: Phase 1
       duration: 2 mois
       title: Valider l'hypothèse
