@@ -3,6 +3,19 @@ title: "Accessibilité : partiellement conforme"
 layout: page
 url: /accessibilite
 ---
+## Schéma pluriannuel et plan annuel de la DINUM
+
+La direction interministérielle du numérique est engagée dans un processus d’amélioration de l’accessibilité de l’ensemble de ses sites.
+
+Le schéma pluriannuel décrit les points importants sur lesquels la DINUM s’appuiera pour améliorer l’accessibilité numérique de l’ensemble de ses sites web et applications.
+
+* [Consulter le schéma pluriannuel d’accessibilité 2020-2022 (pdf - 1,7 Mo)](img/dinum_schemapluriannuel_2020.pdf)
+
+Il s’accompagne de plans d’action annuels qui détaillent les opérations programmées et mises en œuvre chaque année, ainsi que l’état de suivi de ces actions.
+
+* [Consulter le plan annuel d’accessibilité 2021 (pdf - 900 Ko)](img/dinum-plan-annuel-2021.pdf)
+* [Consulter le plan annuel d’accessibilité 2020 (pdf - 1 Mo)](img/dinum_schemapluriannuel_2020.pdf)
+
 ## État de conformité
 
 Le site *<https://eig.etalab.gouv.fr/>* est en conformité partielle avec le référentiel général d’amélioration de l’accessibilité (RGAA), version 4.1 en raison des non-conformités et des dérogations énumérées ci-dessous.
@@ -103,8 +116,8 @@ Cette procédure est à utiliser dans le cas suivant.
 
 Vous avez signalé au responsable du site internet un défaut d’accessibilité qui vous empêche d’accéder à un contenu ou à un des services du portail et vous n’avez pas obtenu de réponse satisfaisante.
 
-* Écrire un message au Défenseur des droits \[<https://formulaire.defenseurdesdroits.fr/>]
-* Contacter le délégué du Défenseur des droits dans votre région \[<https://www.defenseurdesdroits.fr/saisir/delegues>]
+* Écrire un message au Défenseur des droits [<https://formulaire.defenseurdesdroits.fr/>]
+* Contacter le délégué du Défenseur des droits dans votre région [<https://www.defenseurdesdroits.fr/saisir/delegues>]
 * Envoyer un courrier par la poste (gratuit, ne pas mettre de timbre)\
   Défenseur des droits\
   Libre réponse 71120\
