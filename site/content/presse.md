@@ -14,6 +14,10 @@ agents:
 ---
 **21 Septembre 2022**
 
+[Corine Waroquiers : “Nous croyons beaucoup à l’assemblage des compétences”](https://acteurspublics.fr/webtv/emissions/journees-acteurs-publics-solutions/corine-waroquiers-nous-croyons-beaucoup-a-lassemblage-des-competences)
+
+**21 Septembre 2022**
+
 [L’état de santé des ponts suivi de près par la “blockchain”](https://acteurspublics.fr/articles/letat-de-sante-des-ponts-suivi-de-pres-par-la-blockchain)
 
 **16 Août 2022**
