@@ -48,9 +48,6 @@ join:
 medias:
   desc: Parcourez les articles, tribunes, posts de blog sur le programme
   tiles:
-    - image: img/forbes.png
-      title: Forbes
-      link: https://www.forbes.fr/entrepreneurs/entrepreneurs-dinteret-general-comment-entreprendre-pour-ameliorer-le-service-public/
     - image: img/logo-les-echos.png
       title: Les Echos Start
       link: https://start.lesechos.fr/travailler-mieux/metiers-reconversion/salaries-dans-la-tech-ils-ont-quitte-le-prive-pour-innover-dans-le-secteur-public-1352864
@@ -66,4 +63,7 @@ medias:
     - title: BFM Buisness
       image: img/logo_bfm-business.svg.png
       link: https://twitter.com/bfmbusiness/status/1508397718498160641?s=20&t=_hwPmDusXjVnYl9Dzb7M6A
+    - image: img/twitter-logo.svg
+      title: "@eigforever"
+      link: https://twitter.com/eigforever
 ---
