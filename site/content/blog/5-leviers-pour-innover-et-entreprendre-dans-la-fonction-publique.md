@@ -13,7 +13,7 @@ categories:
   - Accompagnement
   - Méthode
 related:
-  - Comment les EIG et les mentors apprennent et progressent ?
+  - "Dans les coulisses du programme : rencontre avec les coachs EIG"
 visible: true
 ---
 S’engager dans un projet d’innovation, de modernisation ou de transformation n’est pas un long fleuve tranquille. « Innover, c’est d’abord déconstruire les mythes qui entourent les démarches de transformation » comme l’indiquait [Sonia Prévost Mercier](https://eig.etalab.gouv.fr/personnes/sonia-prevost-mercier/) lors de la table ronde « Repousser les limites de l’innovation » à l’occasion de [l’événement de clôture de la promotion 5](https://www.dailymotion.com/video/x8cj8uo).
