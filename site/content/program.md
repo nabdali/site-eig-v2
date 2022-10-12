@@ -16,7 +16,7 @@ steps:
   title: |
     Les 4 phases du programme
   list:
-    - icon: img/1_valider_hypothese.svg
+    - icon: /img/1_valider_hypothese.svg
       step: Phase 1
       duration: 2 mois
       title: Valider l'hypothèse
@@ -31,7 +31,7 @@ steps:
         certitudes, la confrontation avec le réel et la compréhension des
         problèmes profonds sont essentielles à la viabilité de la démarche
         entrepreneuriale.
-    - icon: img/2_prouver_le_concept.png
+    - icon: /img/2_prouver_le_concept.png
       step: Phase 2
       duration: 3 mois
       title: Prouver le concept
@@ -56,7 +56,7 @@ steps:
         est décisive non seulement pour capter des retours et évaluer l’impact,
         mais aussi pour commencer à embarquer le public cible, dans une logique
         progressive d'adoption et de prescription.
-      icon: img/3_prouver_la_valeur.png
+      icon: /img/3_prouver_la_valeur.png
       step: Phase 3
       duration: 3 mois
       title: Prouver la valeur
@@ -74,10 +74,10 @@ steps:
         culture et des équipes. Cette dernière phase consiste à valoriser
         l’innovation, dessiner de nouvelles perspectives, saisir les
         opportunités.
-      icon: img/4_amplifier.png
+      icon: /img/4_amplifier.png
 layout: program
 url: /programme
-image: img/bootcamp9_auto_x2-1-.jpg
+image: /img/bootcamp9_auto_x2-1-.jpg
 title: Programme
 desc: >-
   Le programme Entrepreneurs d’intérêt général permet à des talents du numérique
