@@ -16,6 +16,7 @@ related:
   - Comment les EIG et les mentors apprennent et progressent ?
 visible: true
 ---
+
 ![Frédérique Doman et Thomas Parisot, les coachs du programme d'Etalab.](/img/blog/thomas-et-fred.jpg)
 
 Frédérique Doman et Thomas Parisot sont coachs pour le programme [Entrepreneurs d’intérêt général](https://eig.etalab.gouv.fr/) d’Etalab depuis l’été 2021. Respectivement designer et Product Manager, iels nous partage leur expérience au sein d’Etalab et de la Direction Interministérielle du Numérique. De l’accompagnement de la promotion 5 des EIG à l’ingénierie du programme, retour sur douze mois au service de l’innovation publique. 
