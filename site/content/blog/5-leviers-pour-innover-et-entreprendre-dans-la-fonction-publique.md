@@ -50,7 +50,7 @@ Mais la relation n’est pas à sens unique. Au contact des EIG, les administrat
 
 La cohésion de l’équipe EIG peut ainsi l’emporter sur les décisions unilatérales. En effet, s’il est bénéfique et même indispensable d’exprimer des sensibilités différentes (« divergences »), il est primordial de faire des compromis (« convergences ») afin de progresser ensemble vers un objectif commun et accepté. Cette saine collaboration permet de surcroît aux équipes de s’accorder sur la meilleure solution pour toutes et tous et de s’exprimer d’une seule et même voix lors de leurs interactions avec l’écosystème.
 
-Je suis ressortie du séminaire EIG avec l'envie toujours grandissante de m'investir dans mon défi suite aux témoignages d’alumni. Les échanges m'ont fait prendre conscience que les deux développeurs avec lesquels je fais équipe sont très ouverts. J'ai la chance de ne pas me heurter à des difficultés d'association entre nos disciplines respectives. (Line Gallen, designer à l'IGN)
+> Je suis ressortie du séminaire EIG avec l'envie toujours grandissante de m'investir dans mon défi suite aux témoignages d’alumni. Les échanges m'ont fait prendre conscience que les deux développeurs avec lesquels je fais équipe sont très ouverts. J'ai la chance de ne pas me heurter à des difficultés d'association entre nos disciplines respectives. (Line Gallen, designer à l'IGN)
 
 La co-construction en bonne intelligence est cruciale. Pour y parvenir, il est intéressant de s’attacher à certains préceptes : s’adresser aux autres comme on voudrait qu’ils et elles s’adressent à nous, accepter chez soi ou autrui la non-connaissance de tel ou tel sujet, éviter les postures de dépositaires du savoir, éviter d’apporter une aide superficielle et tronquée, préparer au maximum les réunions pour ne pas faire « perdre de temps » à ses participant(e)s ou encore encourager les retours mutuels.
 
@@ -58,7 +58,7 @@ La co-construction en bonne intelligence est cruciale. Pour y parvenir, il est i
 
 Il est bénéfique d’attiser et de nourrir la culture entrepreneuriale des administrations. Les démarches d’exploration et d’émergence permettent aux EIG de suivre un chemin de crête entre la stratégie et le terrain, afin de viser une incrémentation pérenne de la valeur au sein des administrations.
 
-La démarche entrepreneuriale est avant tout une démarche d’action. À ce titre, le programme EIG est un formidable moyen pour agir en conciliant esprit d’innovation, co-construction et frugalité. C’est ce que souhaite faire le Cerema : en partant de difficultés récurrentes des collectivités, le défi est de proposer en seulement 10 mois un premier service simple, utile et donc utilisé. (Thomas Plantier, directeur de la transformation numérique au Cerema)
+> La démarche entrepreneuriale est avant tout une démarche d’action. À ce titre, le programme EIG est un formidable moyen pour agir en conciliant esprit d’innovation, co-construction et frugalité. C’est ce que souhaite faire le Cerema : en partant de difficultés récurrentes des collectivités, le défi est de proposer en seulement 10 mois un premier service simple, utile et donc utilisé. (Thomas Plantier, directeur de la transformation numérique au Cerema)
 
 Cet esprit se manifeste entre autres par une appétence pour les expérimentations rapides et une acceptation de la possibilité de l’échec, par une culture du retour, par une comitologie légère (par exemple le « daily meeting » emprunté à l’agilité) et par un dépassement de fonction.
 
@@ -94,11 +94,9 @@ Il s'agit d'abord de désapprendre - un exercice difficile. En effet, nous ne sa
 
 Certaines équipes sont constituées en usines à livrer des fonctionnalités : les ingénieur(e)s y sont là essentiellement pour programmer. D'autres équipes ont la chance de bénéficier de plus de confiance, d'autonomie et de responsabilité. Elles se concentrent sur les problèmes à résoudre et les usages au plus proche du terrain, privilégient des avancées régulières et concrètes, mesurables en termes d'impact. Il importe donc de nous affranchir de nos carcans culturels, organisationnels et méthodologiques, pour réinventer nos pratiques et imaginer un médium peut-être plus frugal, mais capable d'être confronté rapidement au réel. 
 
-EIG bouscule à mon sens les codes de l’image que l'on peut avoir du service public. La méthodologie appliquée au sein du programme et l'accompagnement proposé nous permettent de nous mettre dans la peau d'un(e) entrepreneur(e) avec des contraintes - temps court, responsabilités - et des avantages - autonomie, créativité. (Jehanne Dussert, développeuse au ministère de l’Intérieur)
+> EIG bouscule à mon sens les codes de l’image que l'on peut avoir du service public. La méthodologie appliquée au sein du programme et l'accompagnement proposé nous permettent de nous mettre dans la peau d'un(e) entrepreneur(e) avec des contraintes - temps court, responsabilités - et des avantages - autonomie, créativité. (Jehanne Dussert, développeuse au ministère de l’Intérieur)
 
 Le mythe de la « solution magique » est périlleux. Il est souvent préjudiciable de s’arc-bouter à une voie prédéfinie, l’innovation étant par définition imprévisible. Embrasser l'incertitude n'est certes pas chose aisée. Attachons-nous donc à saisir les problèmes sous-jacents. Restons en en capacité d'apprendre, de découvrir de nouvelles facettes du problème, d’explorer des pistes inédites, en nous accordant le droit à l'erreur, pourvu que nous en tirions un apprentissage. C'est avec modestie et opiniâtreté que s'esquisse un chemin incertain mais prometteur.
-
-
 
 Les principes exposés ci-avant ne sont pas dogmatiques. Ils sont tirés de l’immersion des EIG dans les administrations. Chaque promotion EIG transmet ses expériences et enseignements à la suivante. Chaque année, du séminaire d'intégration à la cérémonie de clôture, l'intelligence collective ne cesse d'enrichir notre compréhension et notre pratique. 
 
@@ -107,7 +105,5 @@ Ainsi, [Elisabeth Talbourdet-Ville](https://eig.etalab.gouv.fr/personnes/elisabe
 Plus globalement, ce partage de compétences s’appuie aujourd’hui sur le vécu de [plus de 200 EIG](https://eig.etalab.gouv.fr/talents/) ayant pris part à l’aventure sur [plus de 100 défis](https://eig.etalab.gouv.fr/defis/) au sein de 80 administrations (90% des défis s’inscrivant dans la durée au-delà du programme) depuis le lancement du dispositif en 2016.
 
 Nous ne pouvons qu’encourager chacune et chacun d’entre vous à vous appuyer sur ces leviers et à partager votre expérience, à votre tour, à la communauté EIG !
-
-
 
 *Vous travaillez dans une administration centrale ou chez un opérateur de l'État et vous souhaitez mener un projet exploratoire d'innovation numérique ? Vous êtes designer, développeuse ou développeur, juriste du numérique, ingénieur(e) de la donnée ou des sciences de la donnée et vous souhaitez rejoindre la prochaine promotion ? Inscrivez-vous à notre [lettre d'information](https://infolettres.etalab.gouv.fr/subscribe/entrepreneur-interet-general@mail.etalab.studio) pour suivre l'actualité du programme EIG et être informé(e) des prochains appels à projets et à candidatures.*
