@@ -77,7 +77,7 @@ steps:
       icon: /img/4_amplifier.png
 layout: program
 url: /programme
-image: /img/bootcamp9_auto_x2-1-.jpg
+image: img/bootcamp9_auto_x2-1-.jpg
 title: Programme
 desc: >-
   Le programme Entrepreneurs d’intérêt général permet à des talents du numérique
