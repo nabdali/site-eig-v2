@@ -66,7 +66,7 @@ Face à la logique causale – déclinant les moyens à mettre en place au regar
 
 D’abord, partez de ce que vous avez. Appuyez-vous sur les réalités immédiates et les compétences de chacune et chacun pour entreprendre dès à présent et créer des opportunités.
 
-Ensuite, raisonnez en pertes acceptables et gains attendus, id est rester maître de son temps, de ses ressources et éviter les velléités d’explorer de nombreux chemins simultanément qui conduisent à une trop grande dispersion.
+Ensuite, raisonnez en pertes acceptables et gains attendus, *id est* rester maître de son temps, de ses ressources et éviter les velléités d’explorer de nombreux chemins simultanément qui conduisent à une trop grande dispersion.
 
 Créez un patchwork fou ! Croisez les compétences et les expériences, diverses mais complémentaires. Il est opportun de solliciter l’altérité et de mutualiser des efforts.
 
