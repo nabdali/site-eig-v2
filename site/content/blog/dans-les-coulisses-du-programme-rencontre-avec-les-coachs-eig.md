@@ -8,7 +8,7 @@ description: "Frédérique Doman et Thomas Parisot sont coachs pour le programme
   et de la Direction Interministérielle du Numérique. De l’accompagnement de la
   promotion 5 des EIG à l’ingénierie du programme, retour sur douze mois au
   service de l’innovation publique. "
-image: img/thomas-et-fred.jpg
+image: img/table-ronde-4.jpg
 categories:
   - Accompagnement
   - Témoignage
