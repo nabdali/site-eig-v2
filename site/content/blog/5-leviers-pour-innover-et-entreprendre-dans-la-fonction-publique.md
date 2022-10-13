@@ -8,7 +8,7 @@ description: Quels sont les facteurs clés de succès de tout projet d’innovat
   croisée de la cérémonie de clôture de la promotion 5 et du séminaire
   d’intégration de la promotion 6, nous identifions au moins 5 leviers qui
   concourent à la relève des défis d’intérêt général.
-image: img/pyramide.png
+image: img/louvre-credit_mathias_reding.jpg
 categories:
   - Accompagnement
   - Méthode
