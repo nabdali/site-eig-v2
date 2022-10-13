@@ -28,7 +28,7 @@ Quels sont les facteurs clés de succès de tout projet d’innovation, de moder
 
 Le programme EIG se place sous le signe de la pyramide.
 
-![](https://lh6.googleusercontent.com/lVRwa2VoRML_ufmXGT2pQGt-1LTqCzILEG_I8Uhtdu15ilrj3rJuKlkTzfDdqYLAAUYLh_1i7lyaV-u7hfHZasJZPyfSbpLMiX2AR7B3U1CNd0J2lOvT7IlNpE43U-JjAZ6Iy3EAa0DUIu9lzbk1mBPTRgmr-37fxouKc08d0hmOTe1SaM21PFVojvbL)
+![Pyramide du Louvre ](img/louvre-credit_mathias_reding.jpg)
 
 Que représente-t-elle ? Il s’agit d’une représentation de la pyramide du Louvre, commandée par François Mitterrand et conçue par l’architecte Ieoh Ming Pei. 
 
