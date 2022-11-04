@@ -1,6 +1,6 @@
 ---
 title: Antoine San Segundo
-job: Coach Designer
+job: Coach en design de service
 promos:
   - Promotion 6
 role: agent-programme
