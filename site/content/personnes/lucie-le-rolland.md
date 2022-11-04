@@ -1,6 +1,6 @@
 ---
 title: Lucie Le Rolland
-job: Coach Data
+job: Coach en science de la donnée
 desc: ""
 promos:
   - Promotion 6
