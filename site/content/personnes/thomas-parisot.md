@@ -8,10 +8,10 @@ desc: >-
   lauréates. 
 
 
-  En tant que coach produit, il sʼattache à faciliter lʼintelligence collective, le dépassement de fonction et la création de valeur. Il sʼimpose une pratique systémique et agnostique, pour rester en capacité d’apprendre et résoudre des problèmes complexes.
+  En tant que coach produit, il sʼattache à faciliter le dépassement de fonction, la création de valeur et la mesure dʼimpact. Il sʼimpose une pratique systémique et agnostique, pour rester en capacité d’apprendre et résoudre des problèmes complexes.
 
 
-  Il s'appuie sur plus de 15 années d'expérience dans le secteur numérique, en ayant évolué dans des contextes organisationnels très variés, de la startup à la grande entreprise, en passant par les cabinets de conseil et le milieu associatif.
+  Il s'appuie sur plus de quinze années d'expérience dans le secteur numérique, en ayant évolué dans des contextes organisationnels très variés, de la startup à la grande entreprise, en passant par les cabinets de conseil et le milieu associatif.
 promos: []
 role: agent-programme
 expertises:
