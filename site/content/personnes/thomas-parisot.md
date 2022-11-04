@@ -4,6 +4,8 @@ job: Coach produit, responsable de lʼaccompagnement
 desc: ""
 promos: []
 role: agent-programme
+defis:
+  - Magellan
 expertises:
   - "Accompagnement "
 image: img/thomas-parisot.jpg
