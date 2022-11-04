@@ -1,6 +1,7 @@
 ---
 title: Magellan
-description: Accompagner la collaboration et l'innovation au sein du programme EIG et de son écosystème 
+description: Accompagner la collaboration et l'innovation au sein du programme
+  EIG et de son écosystème
 who: Direction interministérielle du numérique (DINUM)
 place: ""
 themes:
@@ -10,9 +11,8 @@ promos:
 town: Paris (75)
 date: 2022
 expertises:
-  - Développement
-  - Ingénierie de la donnée
   - Design
+  - Data science
 image: img/16_link.svg
 visible: true
 ---
