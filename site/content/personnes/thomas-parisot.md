@@ -1,6 +1,6 @@
 ---
 title: Thomas Parisot
-job: Coach produit, responsable de l'accompagnement
+job: Coach produit, responsable de lʼaccompagnement
 promos: []
 role: agent-programme
 expertises:
