@@ -11,7 +11,7 @@ hero:
 intro:
   desc: Le programme Entrepreneurs d'intérêt général sélectionne des spécialistes
     de la technologie, du design et du droit du numérique pour tester et
-    expérimenter de nouveaux possibles avec des agents de l’État.
+    expérimenter de nouveaux possibles avec des agents de l’État
   title: Nous réunissons talents du numérique et agents publics pour relever des
     défis d’intérêt général
 defis:
