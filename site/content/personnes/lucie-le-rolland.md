@@ -10,7 +10,7 @@ defis:
 expertises:
   - Data science
 image: img/photo_lucie.png
-linkedin: linkedin.com/in/lucie-le-rolland-681188a7
+linkedin: https://www.linkedin.com/in/lucie-le-rolland-681188a7/
 weight: 4
 ---
 Normalienne formée à l'économie et aux statistiques, j'ai passé les quatre premières années de carrière à Singapour, où j'ai travaillé comme data scientist dans la banque. Désireuse de trouver un travail plus en phase avec mes valeurs, je suis ensuite rentrée en France. J'y suis devenue économiste à l'Institut des Politiques Publiques, avec une spécialisation sur les questions de santé (accès aux soins) et les personnes âgées (retraite, perte d'autonomie, inégalités face à la mortalité).
