@@ -5,7 +5,10 @@ date: 2022-11-23T13:17:57.858Z
 description: Être EIG, c'est faire partie d'un collectif. S'associer pour
   entreprendre implique d'apprendre à se connaître et de s'aligner sur une
   vision commune de la collaboration. Quelles bonnes pratiques de bienveillance
-  mettre en œuvre au sein du groupe ?
+  mettre en œuvre au sein du groupe ? Éviter les postures intempestives de
+  dépositaire du savoir ET la « conduite depuis le siège arrière ». S’adresser
+  aux autres comme on voudrait qu’on s’adresse à nous, dire « je ne sais pas »
+  et savoir l’entendre.
 image: img/éviter-la-«-conduite-depuis-le-siège-arrière-».jpg
 categories:
   - Collectif
