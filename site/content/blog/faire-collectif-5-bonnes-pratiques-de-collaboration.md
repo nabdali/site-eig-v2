@@ -13,6 +13,8 @@ related:
   - 5 leviers pour innover et entreprendre dans la fonction publique
 visible: true
 ---
+Être EIG, c'est faire partie d'un collectif. S'associer pour entreprendre implique d'apprendre à se connaître et de s'aligner sur une vision commune de la collaboration. Quelles bonnes pratiques de bienveillance mettre en œuvre au sein d'un groupe ?
+
 ![Photographie par Andre Mouton sur Unsplash](img/s’adresser-aux-autres-comme-on-voudrait-qu’on-s’adresse-à-nous.jpg "Photographie par Andre Mouton sur Unsplash")
 
 # S’adresser aux autres comme on voudrait qu’on s’adresse à nous
