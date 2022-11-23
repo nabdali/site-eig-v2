@@ -79,3 +79,7 @@ Les retours sont un exercice difficile aussi bien quand il s’agit d’en faire
 Que faire ?
 
 Lorsqu’on reçoit un retour, on peut garder en tête que notre travail ne définit pas ce que nous sommes, et se concentrer sur le fait d’écouter ce qui nous est dit. Pour y répondre, on peut s’efforcer de rebondir par un « oui et » plutôt qu’un « non mais ». Il est important de se soucier de la sensibilité d’autrui et de l’équilibrer. Par exemple, pour faire un retour, on pourra suivre la séquence suivante : le positif, ce qui fonctionne moins bien, des suggestions d'amélioration, et enfin des questions éventuelles.
+
+ ﻿
+
+*Vous travaillez dans une administration centrale ou chez un opérateur de l’État et vous souhaitez mener un projet exploratoire d’innovation numérique ? Vous êtes designer, développeuse ou développeur, juriste du numérique, ingénieur(e) de la donnée ou des sciences de la donnée et vous souhaitez rejoindre la prochaine promotion ? Inscrivez-vous à notre lettre d’information pour suivre l’actualité du programme EIG et être informé(e) des prochains appels à projets et à candidatures.*
