@@ -20,6 +20,8 @@ visible: true
 
 ![Photographie par Andre Mouton sur Unsplash](/img/s’adresser-aux-autres-comme-on-voudrait-qu’on-s’adresse-à-nous.jpg "Photographie par Andre Mouton sur Unsplash")
 
+Photographie par Andre Mouton sur Unsplash
+
 # S’adresser aux autres comme on voudrait qu’on s’adresse à nous
 
 Lorsque vous souhaitez exprimer un point de vue ou signaler un problème, n’oubliez pas que vous vous adressez à des êtres humains sensibles, qui ont fait au mieux dans les conditions données.
@@ -29,6 +31,8 @@ Que faire ?
 Réfléchissez à la formulation de votre objection et à l’effet qu’elle pourrait produire sur la personne en face avant d’appuyer sur Envoyer. Pour vous aider, vous pouvez imaginer que votre message est le 150e message alarmant de la journée que votre destinataire reçoit ; n’hésitez pas à expliciter verbalement vos bonnes intentions.
 
 ![Photographie par Chris Ainsworth sur Unsplash](/img/dire-«-je-ne-sais-pas-»-et-savoir-l’entendre.jpg "Photographie par Chris Ainsworth sur Unsplash")
+
+Photographie par Chris Ainsworth sur Unsplash
 
 # Dire « je ne sais pas » et savoir l’entendre
 
@@ -40,6 +44,8 @@ Avant de vous lancer dans une explication, demandez à l’autre quel est son de
 
 ![Photographie par Andrew George sur Unsplash](/img/éviter-les-postures-intempestives-de-dépositaire-du-savoir-.jpg "Photographie par Andrew George sur Unsplash")
 
+Photographie par Andrew George sur Unsplash
+
 # Éviter les postures intempestives de dépositaire du savoir
 
 Ces postures sont des précisions ou des corrections subtiles que quelqu’un apporte lors d’une conversation, alors même que celles-ci ne sont pas décisives pour l’échange en cours. Elles inhibent la conversation.
@@ -49,6 +55,8 @@ Que faire ?
 Couper la personne qui parle dans son raisonnement pour la corriger conduit à polariser l'échange entre celles et ceux qui savent et ne savent pas. Par exemple, si quelqu’un présente son travail en expliquant avoir utilisé le framework React, il n’est pas nécessaire de la corriger en disant que React est, en fait, une librairie – ni de corriger la correction en précisant qu’on dit bibliothèque en français.
 
 ![Photographie par anja sur Unsplash](/img/éviter-la-«-conduite-depuis-le-siège-arrière-».jpg "Photographie par anja sur Unsplash")
+
+Photographie par anja sur Unsplash
 
 # Éviter la « conduite depuis le siège arrière »
 
@@ -61,6 +69,8 @@ Que faire ?
 Si quelqu’un fait part à la communauté d’un problème qu’il ou elle rencontre, votre aide est naturellement la bienvenue. Mais essayez autant que possible de prendre le temps nécessaire pour réellement comprendre le problème avant de vous prononcer. N’hésitez pas à discuter avec la personne et à lui poser des questions pour comprendre quelles pistes celle-ci a déjà explorées.
 
 ![Photographie par Randalyn Hill sur Unsplash](/img/développer-une-culture-du-retour.jpg "Photographie par Randalyn Hill sur Unsplash")
+
+Photographie par Randalyn Hill sur Unsplash
 
 # Développer une culture du retour
 
