@@ -1,15 +1,17 @@
 ---
 title: Victor Journé
-job: Data scientist
+job: Porteur
 promos:
-  - Promotion 3
-role: participant
+  - Promotion 6
+role: agent-public
 defis:
-  - IA Flash
-expertises:
-- Data science
-image: img/victor-journe.png
-linkedin: https://www.linkedin.com/in/victorjourne/
-github: https://github.com/victorjourne
+  - TwinCity
+image: img/promotion-6-photos/profile_victor.jpeg
+linkedin: https://www.linkedin.com/in/victorjourne
 ---
-“Centralien de Nantes avec une spécialité en traitement du signal, j’ai découvert l’apprentissage machine en volontariat international chez Engie, autour des marchés de l’électricité. Mordu, j’ai approfondi le sujet avec une alternance à l’ENSAE en Data Science. Après plus d’un an chez Qopius, une startup à la pointe en analyse d’image, je suis très enthousiaste de réduire l’envoi des contraventions radar inappropriées, grâce au défi IA Flash ! Pendant mon temps libre, vous me trouverez j’espère, sur le grès de Fontainebleau ou sur un bateau !”
+
+Je suis entré dans l’administration en 2019 comme EIG, à la direction du numérique du Ministère de l'Intérieur. J'ai été embauché à la fin de mon contrat comme data-scientist. 
+Au sein de la fabrique numérique, nous concevons des produits innovants pour les directions métiers (sécurité routière, sécurité civile, police, collectivités locales…).  Je développe ceux qui touchent à l'intelligence artificielle en traitement d'image ou de texte.
+
+TwinCity, qui vise à explorer le potentiel des jumeaux numérique de ville, permettra notamment de construire des jeux de données synthétiques issus d'un moteur de jeu vidéo ouvert. Cela pourrait constituer une grande avancée pour l'entraînement et l'évaluation de nos algorithmes.
+

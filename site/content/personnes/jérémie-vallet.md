@@ -1,6 +1,6 @@
 ---
 title: Jérémie Vallet
-job: Porteur
+job: Sponsor
 promos:
   - Promotion 6
 role: agent-public
