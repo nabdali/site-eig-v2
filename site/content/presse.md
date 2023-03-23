@@ -12,6 +12,10 @@ agents:
     - Christophe Cuq
     - TEST - Adeline Celier
 ---
+**23 Mars 2023**
+
+[Le numérique, un exemple à suivre pour l’embarquement des agents ? ](img/2023_03_acteurs-publics_le-numérique-un-exemple-à-suivre-pour-l’embarqu....pdf)
+
 **21 Septembre 2022**
 
 [Corine Waroquiers : “Nous croyons beaucoup à l’assemblage des compétences”](https://acteurspublics.fr/webtv/emissions/journees-acteurs-publics-solutions/corine-waroquiers-nous-croyons-beaucoup-a-lassemblage-des-competences)
