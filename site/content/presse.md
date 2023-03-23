@@ -14,7 +14,7 @@ agents:
 ---
 **23 Mars 2023**
 
-[Le numérique, un exemple à suivre pour l’embarquement des agents ? ](img/2023_03_acteurs-publics_le-numérique-un-exemple-à-suivre-pour-l’embarqu....pdf)
+[Le numérique, un exemple à suivre pour l’embarquement des agents ? ](https://eig.etalab.gouv.fr/img/2023_03_acteurs-publics_le-numérique-un-exemple-à-suivre-pour-l’embarqu....pdf)
 
 **21 Septembre 2022**
 
