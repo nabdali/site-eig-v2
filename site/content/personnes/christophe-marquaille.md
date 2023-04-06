@@ -6,6 +6,7 @@ promos:
 role: agent-public
 defis:
   - Basegun
+  - TwinCity
 expertises:
   - "Accompagnement "
 image: img/cm.jpg
