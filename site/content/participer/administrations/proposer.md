@@ -46,7 +46,5 @@ com: >-
   ## Côté communication
 
 
-  * Inscrivez-vous [à notre liste de diffusion](https://infolettres.etalab.gouv.fr/subscribe/entrepreneur-interet-general@mail.etalab.studio)
-
   * Partagez cet appel à projets avec des agents publics intéressés ! [](https://eig.etalab.gouv.fr/img/aap-eig6_plaquette.pdf)[Télécharger la plaquette](https://eig.etalab.gouv.fr/img/aap-eig6_plaquette.pdf)
 ---
