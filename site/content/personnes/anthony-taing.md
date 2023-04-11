@@ -8,7 +8,7 @@ defis:
   - OptiFlex
 expertises:
   - Data engineering
-image: img/promotion-6-photos/small_version1.png
+image: img/placeholder_homme.svg
 ---
 
 Passionné de nouvelles technologies, j’ai pu m’impliquer dans de nombreux projets en Data et Intelligence Artificielle dans des domaines très variés: transport, gestion de l’eau, chimie, finance et média. 
