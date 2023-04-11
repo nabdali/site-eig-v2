@@ -106,8 +106,5 @@ how:
 wait:
   title: L'appel à candidatures 2022 du programme Entrepreneurs d'Intérêt Général
     est désormais clos.
-  desc: Si vous êtes intéressés par une participation à la prochaine promotion,
-    [inscrivez-vous à notre liste de
-    diffusion](https://infolettres.etalab.gouv.fr/subscribe/entrepreneur-interet-general@mail.etalab.studio)
-    ! Vous serez tenus au courant de toutes nos actualités.
+  desc: ""
 ---
