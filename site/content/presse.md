@@ -16,6 +16,10 @@ agents:
 
 [Le numérique, un exemple à suivre pour l’embarquement des agents ? ](https://eig.etalab.gouv.fr/img/2023_03_acteurs-publics_le-numérique-un-exemple-à-suivre-pour-l’embarqu....pdf)
 
+**11 Février 2023**
+
+[«Astérix», «Vaincre ou mourir» : ces films ont-ils bénéficié de notes et commentaires truqués sur Allociné ?](https://www.liberation.fr/checknews/asterix-vaincre-ou-mourir-ces-films-ont-ils-beneficie-de-notes-et-commentaires-truques-sur-allocine-20230211_T2QUE5CVSVCHZGGOG35VTRW2WU/)
+
 **21 Septembre 2022**
 
 [Corine Waroquiers : “Nous croyons beaucoup à l’assemblage des compétences”](https://acteurspublics.fr/webtv/emissions/journees-acteurs-publics-solutions/corine-waroquiers-nous-croyons-beaucoup-a-lassemblage-des-competences)
