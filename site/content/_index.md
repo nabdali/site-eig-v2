@@ -25,9 +25,9 @@ talents:
     développement, en data science, en design et en droit du numérique - à la
     réussite de ces défis.
   list:
-    - Christophe Ninucci
-    - Samah Ghalloussi
-    - Adeline Celier
+    - Thaïs Coutinho
+    - Pierre-Étienne Devineau
+    - Elisabeth Fainstein
 agents:
   sub: Les agents publics
   desc: "Issus de tout type d'administration, qu'elle soit centrale de l'Etat,
@@ -35,8 +35,8 @@ agents:
     publics accueillent deux ou trois « EIG » dans leurs services pour relever
     ensemble les défis. "
   list:
-    - Céline Guillou
-    - TEST - Adeline Celier
+    - Emilie Jeannesson-Mange
+    - Fabrice Bélorgey
 join:
   image: img/photo-de-nadim.jfif
   sub: "du programme d'Entrepreneur d'intérêt général "
