@@ -1,7 +1,7 @@
 ---
 title: Nicolas Liegeois
 job: "Chargé des opérations du programme EIG "
-role: agent-programme
+role: agent-ecosysteme
 expertises:
   - "Accompagnement "
 image: img/nicolas-cc1-2-.jpg
