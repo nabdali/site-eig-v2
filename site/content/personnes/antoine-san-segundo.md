@@ -10,7 +10,7 @@ expertises:
   - Design
 image: img/00000portrait_00000_burst20200814101229667.jpeg
 linkedin: " https://www.linkedin.com/in/antoine-san-segundo-88a5248b/ "
-weight: 6
+weight: 1
 ---
 Designer, je conçois des produits et de services numériques depuis 7 ans. Diplomé de l’école Estienne, j’ai d’abord travaillé avec plusieurs agences de communication et de design. \
 J’accompagne les projets sur la définition des méthodologies de design, sur les sujets de recherche utilisateur ou de prototypage.\
