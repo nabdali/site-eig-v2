@@ -696,7 +696,7 @@ Pour que de nouveaux publics bénéficient de votre service, il ne suffit pas de
 
 On entend beaucoup parler de disruption, d'innovation de rupture. Mais innover, est-ce nécessairement diviser ? Pas forcément d’après nos expert(e)s invité(e)s, à condition de faire l’effort d’embarquer les équipes dans la culture numérique qui porte le projet. Pour éviter qu’une rupture se crée entre les professionnel(le)s du numérique qui travaillent sur un projet d’innovation et le reste des équipes métier, il est crucial de **faire converger l'ensemble des parties prenantes vers une même culture de travail**. Les postures de sachant(e)s ne sont pas encouragées !
 
-« Ce qu’il y a de nouveau, c’est de développer l’intraprenariat, la posture qu’on leur demande, d’agilité et d’impact »
+> *« Ce qu’il y a de nouveau, c’est de développer l’intraprenariat, la posture qu’on leur demande, d’agilité et d’impact »*
 
 Par conséquent, un respect des priorités préexistantes de l’organisation est utile : pour pérenniser une innovation, il faut « sortir de l’innovation de garage » et se réinscrire dans l’organisation naturelle de la structure, la normaliser : les nouvelles pratiques éprouvées sont intégrées à l'ADN de l'organisation, si bien que de nouveaux projets en bénéficieront naturellement.
 
