@@ -26,7 +26,7 @@ talents:
     réussite de ces défis.
   list:
     - Thaïs Coutinho
-    - Pierre-Étienne Devineau
+    - Ryan Lahfa
     - Elisabeth Fainstein
 agents:
   sub: Les agents publics
