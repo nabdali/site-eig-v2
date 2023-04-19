@@ -28,23 +28,23 @@ Au-delà du diagnostic initial, établi au travers d'entretiens et de recherches
 
 Peut-être avez-vous déjà entendu parler des courbes d’adoption, ces courbes gaussiennes qui supposent un pourcentage minimum d’utilisateurs et d’utilisatrices pour faire basculer une majorité parfois récalcitrante :
 
-<!--\[if !mso]>
+<!--\\[if !mso]>
 <style>
 v\:* {behavior:url(#default#VML);}
 o\:* {behavior:url(#default#VML);}
 w\:* {behavior:url(#default#VML);}
 .shape {behavior:url(#default#VML);}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:RelyOnVML/>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -84,9 +84,9 @@ w\:* {behavior:url(#default#VML);}
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="371">
@@ -655,9 +655,9 @@ w\:* {behavior:url(#default#VML);}
   <w:LsdException Locked="false" Priority="52"
    Name="List Table 7 Colorful Accent 6"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -684,11 +684,9 @@ w\:* {behavior:url(#default#VML);}
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
-
- 
 
 <!--EndFragment-->
 
@@ -700,7 +698,7 @@ On entend beaucoup parler de disruption, d'innovation de rupture. Mais innover, 
 
 « Ce qu’il y a de nouveau, c’est de développer l’intraprenariat, la posture qu’on leur demande, d’agilité et d’impact »
 
-Par conséquent, un respect des priorités préexistantes de l’organisation est utile : pour pérenniser une innovation**,** il faut « *sortir de l’innovation de garage* » et se réinscrire dans l’organisation naturelle de la structure, la normaliser : les nouvelles pratiques éprouvées sont intégrées à l'ADN de l'organisation, si bien que de nouveaux projets en bénéficieront naturellement.
+Par conséquent, un respect des priorités préexistantes de l’organisation est utile : pour pérenniser une innovation, il faut « sortir de l’innovation de garage » et se réinscrire dans l’organisation naturelle de la structure, la normaliser : les nouvelles pratiques éprouvées sont intégrées à l'ADN de l'organisation, si bien que de nouveaux projets en bénéficieront naturellement.
 
 > *« On a réussi à pérenniser notre plateforme en embarquant notre équipe informatique, qui au démarrage n’était pas forcément enjouée. On a dû s’approprier l’outil. »*
 
