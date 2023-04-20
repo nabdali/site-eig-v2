@@ -20,7 +20,7 @@ Dans ce contexte, le programme [Entrepreneur(e)s d'intérêt général](https://
 
 Ont été accueillies, à cette occasion, quatre personnalités du service public autour d’une table ronde qu’a animée Jakub Voznica, coach en science de la donnée. Hélène Bégon, adjointe à l’Ecolab et auteure de [La transformation numérique des administrations](https://www.vie-publique.fr/catalogue/281188-la-transformation-numerique-des-administrations), Alexandra Grout, cheffe adjointe de département à Police nationale, Mohammed Adnène Trojette, conseiller à la Cour des comptes, précédemment conseiller numérique à l’Elysée et Stéphanie Combes, directrice du Health Data Hub.
 
-![](img/table-ronde-managers-de-l-innovation.jpg)
+![](/img/table-ronde-managers-de-l-innovation.jpg)
 
 A l’ordre du jour, des enjeux cruciaux de la gestion de projets d’innovation. Comment concilier la culture administrative et les nouvelles méthodes de travail du secteur technologique ? Comment mieux briser les silos entre la décision et l’opération, entre les spécialistes métier et les talents du numérique ? Quels conseils pour assurer la pérennisation des services publics ? **Retour sur cinq conseils de managers du service public dont l’expérience en matière de transformation numérique n’est plus à prouver.**
 
@@ -30,7 +30,7 @@ Au-delà du diagnostic initial, établi au travers d'entretiens et de recherches
 
 Peut-être avez-vous déjà entendu parler des courbes d’adoption, ces courbes gaussiennes qui supposent un pourcentage minimum d’utilisateurs et d’utilisatrices pour faire basculer une majorité parfois récalcitrante :
 
-![](img/everett-rogers.jpg)
+![](/img/everett-rogers.jpg)
 
 Pour que de nouveaux publics bénéficient de votre service, il ne suffit pas de sonder de premiers utilisateurs et utilisatrices : il importe de s'appuyer sur elles et eux pour **co-construire, faire de cette innovation la leur**. Ce seront demain les meilleur(e)s avocat(e)s de la solution que vous proposez. Ultimement, il s’agit d’utiliser leurs réseaux pour propager le service ou le produit qu’elles et ils contribuent à co-développer – dans toute leur diversité.
 
